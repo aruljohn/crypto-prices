@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Ronin | RON | 1.11 | -0.32% |
 | Curve DAO Token | CRV | 0.5264 | +3.72% |
 
-Last Update at Tue Feb  4 07:44:54 2025 Eastern Time
+Last Update at Tue Feb  4 07:45:39 2025 Eastern Time
