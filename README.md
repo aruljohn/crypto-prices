@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 97,107.64 | +0.08% |
-| Ethereum | ETH | 3,527.24 | +1.36% |
-| XRP | XRP | 2.44 | +1.78% |
-| Tether | USDT | 0.9991 | +0.05% |
-| Solana | SOL | 217.36 | +4.80% |
-| BNB | BNB | 707.05 | -0.47% |
-| Dogecoin | DOGE | 0.3636 | +7.24% |
-| USD Coin | USDC | 0.9999 | +0.04% |
-| Cardano | ADA | 1.10 | +14.21% |
-| TRON | TRX | 0.2655 | +1.02% |
-| Avalanche | AVAX | 41.57 | +4.48% |
-| Wrapped Bitcoin | WBTC | 96,916.55 | +0.12% |
-| Toncoin | TON | 5.73 | +1.87% |
-| Chainlink | LINK | 23.06 | +3.15% |
-| Shiba Inu | SHIB | 0.00002376 | +4.61% |
-| Stellar | XLM | 0.4459 | +4.92% |
-| Sui | SUI | 4.51 | +2.01% |
-| Polkadot | DOT | 7.89 | +9.26% |
-| Hedera | HBAR | 0.3139 | +8.02% |
-| Bitcoin Cash | BCH | 468.33 | +1.24% |
-| Pepe | PEPE | 0.00002122 | +2.90% |
-| Uniswap | UNI | 14.65 | +1.94% |
-| UNUS SED LEO | LEO | 9.10 | +0.89% |
-| Litecoin | LTC | 109.18 | +2.26% |
-| Bitget Token | BGB | 6.17 | -1.68% |
-| NEAR Protocol | NEAR | 5.73 | +4.64% |
-| Internet Computer | ICP | 12.00 | +11.97% |
-| Dai | DAI | 0.9996 | -0.01% |
-| Aptos | APT | 9.64 | +3.47% |
-| Aave | AAVE | 345.26 | +3.12% |
-| Mantle | MNT | 1.39 | +2.65% |
-| Polygon Ecosystem Token | POL | 0.5115 | +3.93% |
-| Cronos | CRO | 0.1556 | +2.07% |
-| Virtual Protocol | VIRTUAL | 4.23 | -9.02% |
-| Ethereum Classic | ETC | 27.88 | +4.13% |
-| VeChain | VET | 0.05162 | +7.91% |
-| Render Token | RENDER | 7.92 | +3.83% |
-| bittensor | TAO | 556.91 | +5.77% |
-| Monero | XMR | 201.56 | +3.01% |
-| Tokenize Xchange | TKX | 45.29 | +5.38% |
-| MANTRA | OM | 3.88 | +2.05% |
-| Artificial Superintelligence Alliance | FET | 1.49 | +6.67% |
-| WhiteBIT Token | WBT | 24.71 | +0.00% |
-| Ethena | ENA | 1.20 | +12.63% |
-| Algorand | ALGO | 0.4202 | +5.34% |
-| Filecoin | FIL | 5.62 | +6.69% |
-| Arbitrum | ARB | 0.8136 | +4.56% |
-| Kaspa | KAS | 0.1266 | +3.32% |
-| OKB | OKB | 50.47 | +1.14% |
-| Cosmos | ATOM | 7.19 | +7.51% |
+| Bitcoin | BTC | 97,330.95 | +1.35% |
+| Ethereum | ETH | 3,575.05 | +3.73% |
+| XRP | XRP | 2.44 | +1.65% |
+| Tether | USDT | 0.9981 | +0.11% |
+| Solana | SOL | 216.38 | +4.92% |
+| BNB | BNB | 709.19 | +1.09% |
+| Dogecoin | DOGE | 0.3648 | +8.96% |
+| USD Coin | USDC | 0.9991 | +0.18% |
+| Cardano | ADA | 1.09 | +14.09% |
+| TRON | TRX | 0.2677 | +1.93% |
+| Avalanche | AVAX | 41.73 | +6.53% |
+| Wrapped Bitcoin | WBTC | 97,141.12 | +1.39% |
+| Chainlink | LINK | 23.40 | +6.06% |
+| Toncoin | TON | 5.78 | +3.21% |
+| Shiba Inu | SHIB | 0.00002372 | +5.03% |
+| Sui | SUI | 4.66 | +6.75% |
+| Stellar | XLM | 0.4427 | +3.37% |
+| Polkadot | DOT | 7.85 | +9.89% |
+| Hedera | HBAR | 0.3115 | +7.74% |
+| Bitcoin Cash | BCH | 471.64 | +2.93% |
+| Pepe | PEPE | 0.00002111 | +3.64% |
+| Uniswap | UNI | 14.89 | +4.45% |
+| UNUS SED LEO | LEO | 9.10 | +1.61% |
+| Litecoin | LTC | 108.87 | +3.10% |
+| Bitget Token | BGB | 6.24 | +0.25% |
+| NEAR Protocol | NEAR | 5.78 | +6.90% |
+| Internet Computer | ICP | 12.09 | +14.14% |
+| Aptos | APT | 9.72 | +5.45% |
+| Dai | DAI | 0.9993 | +0.07% |
+| Aave | AAVE | 351.62 | +6.90% |
+| Mantle | MNT | 1.40 | +4.38% |
+| Virtual Protocol | VIRTUAL | 4.35 | -4.87% |
+| Polygon Ecosystem Token | POL | 0.5196 | +6.99% |
+| Cronos | CRO | 0.1574 | +3.99% |
+| VeChain | VET | 0.05262 | +10.60% |
+| Ethereum Classic | ETC | 28.16 | +5.92% |
+| bittensor | TAO | 565.47 | +10.96% |
+| Render Token | RENDER | 8.06 | +6.98% |
+| Monero | XMR | 200.64 | +2.27% |
+| MANTRA | OM | 3.88 | +2.25% |
+| Ethena | ENA | 1.19 | +14.82% |
+| Artificial Superintelligence Alliance | FET | 1.50 | +8.21% |
+| Tokenize Xchange | TKX | 48.74 | +18.28% |
+| WhiteBIT Token | WBT | 24.71 | +0.08% |
+| Algorand | ALGO | 0.4177 | +6.06% |
+| Filecoin | FIL | 5.63 | +8.11% |
+| Arbitrum | ARB | 0.8285 | +7.47% |
+| Kaspa | KAS | 0.1273 | +4.24% |
+| OKB | OKB | 50.96 | +2.93% |
+| Cosmos | ATOM | 7.31 | +10.26% |
 
-Last Update at Fri Jan  3 10:11:21 2025 Eastern Time
+Last Update at Fri Jan  3 11:11:07 2025 Eastern Time
