@@ -54,4 +54,4 @@ This page is updated automatically multiple times a day.
 | OKB | OKB | 49.66 | +1.49% |
 | Cosmos | ATOM | 6.81 | +3.37% |
 
-Last Update at Fri Jan  3 03:54:54 2025 UTC
+Last Update at Fri Jan  3 03:56:20 2025 UTC
