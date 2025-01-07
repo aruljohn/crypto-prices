@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 100,816.93 | +1.43% |
-| Ethereum | ETH | 3,634.57 | -0.45% |
-| XRP | XRP | 2.42 | +0.88% |
-| Tether | USDT | 1.00 | -0.30% |
-| BNB | BNB | 724.24 | +0.51% |
-| Solana | SOL | 213.58 | -1.73% |
-| Dogecoin | DOGE | 0.3864 | +0.23% |
-| USD Coin | USDC | 0.9997 | -0.17% |
-| Cardano | ADA | 1.14 | +5.21% |
-| TRON | TRX | 0.2692 | +1.33% |
-| Avalanche | AVAX | 43.03 | -2.78% |
-| Wrapped Bitcoin | WBTC | 100,668.77 | +1.57% |
-| Sui | SUI | 5.10 | -2.18% |
-| Chainlink | LINK | 23.16 | -2.71% |
-| Toncoin | TON | 5.69 | -0.27% |
-| Shiba Inu | SHIB | 0.00002374 | -1.55% |
-| Stellar | XLM | 0.4552 | +0.82% |
-| Hedera | HBAR | 0.3188 | +4.16% |
-| Polkadot | DOT | 7.79 | +1.48% |
-| Bitcoin Cash | BCH | 468.22 | -0.68% |
-| Uniswap | UNI | 14.81 | -0.81% |
-| Pepe | PEPE | 0.00002034 | -1.61% |
-| UNUS SED LEO | LEO | 9.06 | -0.37% |
-| Litecoin | LTC | 110.72 | -1.59% |
-| Bitget Token | BGB | 6.50 | +5.27% |
-| NEAR Protocol | NEAR | 5.88 | -0.49% |
-| Aptos | APT | 10.45 | +5.29% |
-| Internet Computer | ICP | 12.15 | +0.19% |
-| Dai | DAI | 0.9999 | -0.27% |
-| Aave | AAVE | 332.20 | -3.30% |
-| Render Token | RENDER | 8.59 | -0.83% |
-| Mantle | MNT | 1.30 | -4.04% |
-| Cronos | CRO | 0.1591 | -0.54% |
-| Polygon Ecosystem Token | POL | 0.5141 | -1.12% |
-| Ethereum Classic | ETC | 28.27 | +0.02% |
-| VeChain | VET | 0.0515 | +0.70% |
-| bittensor | TAO | 533.53 | -2.01% |
-| WhiteBIT Token | WBT | 27.18 | +4.20% |
-| Virtual Protocol | VIRTUAL | 3.85 | -6.71% |
-| Arbitrum | ARB | 0.8982 | -4.45% |
-| Artificial Superintelligence Alliance | FET | 1.55 | -2.03% |
-| MANTRA | OM | 3.92 | -1.08% |
-| Monero | XMR | 201.99 | -0.68% |
-| Filecoin | FIL | 5.98 | -1.13% |
-| Ethena | ENA | 1.16 | -3.26% |
-| Algorand | ALGO | 0.4125 | +1.32% |
-| Tokenize Xchange | TKX | 42.10 | -2.97% |
-| Kaspa | KAS | 0.122 | -0.27% |
-| OKB | OKB | 50.45 | -0.49% |
-| Cosmos | ATOM | 7.53 | +1.31% |
+| Bitcoin | BTC | 99,155.40 | -1.86% |
+| Ethereum | ETH | 3,545.11 | -4.03% |
+| XRP | XRP | 2.37 | -2.57% |
+| Tether | USDT | 1 | -0.04% |
+| BNB | BNB | 715.29 | -0.86% |
+| Solana | SOL | 209.61 | -5.34% |
+| Dogecoin | DOGE | 0.3745 | -4.02% |
+| USD Coin | USDC | 0.9993 | -0.05% |
+| Cardano | ADA | 1.09 | -0.47% |
+| TRON | TRX | 0.2646 | -0.88% |
+| Avalanche | AVAX | 41.60 | -6.59% |
+| Wrapped Bitcoin | WBTC | 98,959.45 | -1.68% |
+| Sui | SUI | 4.94 | -6.82% |
+| Chainlink | LINK | 22.51 | -7.49% |
+| Toncoin | TON | 5.57 | -3.05% |
+| Stellar | XLM | 0.4453 | -3.30% |
+| Shiba Inu | SHIB | 0.00002307 | -5.31% |
+| Hedera | HBAR | 0.3128 | +0.35% |
+| Polkadot | DOT | 7.55 | -2.97% |
+| Bitcoin Cash | BCH | 455.01 | -4.62% |
+| Uniswap | UNI | 14.41 | -5.76% |
+| Pepe | PEPE | 0.00001953 | -7.22% |
+| UNUS SED LEO | LEO | 9.05 | -0.71% |
+| Litecoin | LTC | 108.00 | -5.87% |
+| Bitget Token | BGB | 6.47 | +4.24% |
+| NEAR Protocol | NEAR | 5.69 | -5.12% |
+| Aptos | APT | 10.25 | +1.15% |
+| Internet Computer | ICP | 11.72 | -4.28% |
+| Dai | DAI | 1.00 | -0.13% |
+| Aave | AAVE | 322.52 | -7.42% |
+| Render Token | RENDER | 8.51 | -3.93% |
+| Cronos | CRO | 0.1558 | -3.92% |
+| Mantle | MNT | 1.29 | -5.33% |
+| Polygon Ecosystem Token | POL | 0.5062 | -3.08% |
+| Ethereum Classic | ETC | 27.55 | -4.03% |
+| VeChain | VET | 0.04973 | -5.76% |
+| bittensor | TAO | 533.50 | -5.21% |
+| WhiteBIT Token | WBT | 27.22 | +4.10% |
+| Virtual Protocol | VIRTUAL | 3.94 | -5.04% |
+| Artificial Superintelligence Alliance | FET | 1.51 | -7.06% |
+| Arbitrum | ARB | 0.8722 | -7.48% |
+| Monero | XMR | 201.12 | -2.02% |
+| MANTRA | OM | 3.84 | -2.93% |
+| Filecoin | FIL | 5.77 | -5.33% |
+| Ethena | ENA | 1.16 | -5.64% |
+| Algorand | ALGO | 0.3988 | -4.82% |
+| Tokenize Xchange | TKX | 42.75 | -3.36% |
+| Kaspa | KAS | 0.1188 | -4.38% |
+| OKB | OKB | 49.86 | -2.33% |
+| Cosmos | ATOM | 7.31 | -3.20% |
 
-Last Update at Tue Jan  7 08:11:08 2025 Eastern Time
+Last Update at Tue Jan  7 10:11:09 2025 Eastern Time
