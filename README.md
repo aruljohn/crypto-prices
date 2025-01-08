@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 94,210.36 | -2.75% |
-| Ethereum | ETH | 3,293.82 | -3.32% |
-| Tether | USDT | 1.00 | +0.17% |
-| XRP | XRP | 2.33 | +1.69% |
-| BNB | BNB | 690.91 | -1.00% |
-| Solana | SOL | 195.95 | -4.25% |
-| Dogecoin | DOGE | 0.3356 | -4.86% |
+| Bitcoin | BTC | 95,346.63 | -1.92% |
+| Ethereum | ETH | 3,331.19 | -1.77% |
+| Tether | USDT | 1.00 | +0.10% |
+| XRP | XRP | 2.39 | +4.19% |
+| BNB | BNB | 697.88 | +0.28% |
+| Solana | SOL | 197.72 | -2.80% |
+| Dogecoin | DOGE | 0.3429 | -2.25% |
 | USD Coin | USDC | 1.00 | +0.11% |
-| Cardano | ADA | 0.9235 | -8.68% |
-| TRON | TRX | 0.2495 | -2.05% |
-| Wrapped Bitcoin | WBTC | 94,096.92 | -2.74% |
-| Avalanche | AVAX | 36.99 | -7.74% |
-| Sui | SUI | 4.61 | -5.96% |
-| Toncoin | TON | 5.28 | -1.95% |
-| Chainlink | LINK | 20.20 | -6.41% |
-| Stellar | XLM | 0.4092 | -3.38% |
-| Shiba Inu | SHIB | 0.00002105 | -4.31% |
-| Hedera | HBAR | 0.2796 | -4.66% |
-| Polkadot | DOT | 6.67 | -6.53% |
-| Bitcoin Cash | BCH | 431.96 | -2.01% |
-| UNUS SED LEO | LEO | 9.04 | +0.00% |
-| Uniswap | UNI | 12.90 | -5.67% |
-| Litecoin | LTC | 100.25 | -3.20% |
-| Bitget Token | BGB | 6.26 | -3.45% |
-| Pepe | PEPE | 0.00001758 | -6.39% |
-| NEAR Protocol | NEAR | 5.07 | -6.70% |
-| Dai | DAI | 1.00 | +0.17% |
-| Internet Computer | ICP | 10.79 | -3.80% |
-| Aptos | APT | 8.92 | -8.24% |
-| Aave | AAVE | 289.42 | -6.69% |
-| Mantle | MNT | 1.19 | -5.97% |
-| Cronos | CRO | 0.1438 | -4.51% |
-| Render Token | RENDER | 7.40 | -9.84% |
-| WhiteBIT Token | WBT | 26.57 | -1.38% |
-| Polygon Ecosystem Token | POL | 0.4552 | -3.86% |
-| MANTRA | OM | 3.98 | +2.59% |
-| Ethereum Classic | ETC | 24.99 | -4.81% |
-| Monero | XMR | 199.05 | +1.65% |
-| Virtual Protocol | VIRTUAL | 3.54 | -6.17% |
-| VeChain | VET | 0.04412 | -7.25% |
-| bittensor | TAO | 460.83 | -9.15% |
-| Tokenize Xchange | TKX | 41.82 | -1.01% |
-| Arbitrum | ARB | 0.7802 | -6.50% |
-| Artificial Superintelligence Alliance | FET | 1.32 | -8.05% |
-| Filecoin | FIL | 5.05 | -7.01% |
-| Kaspa | KAS | 0.1169 | +1.70% |
-| Algorand | ALGO | 0.3523 | -7.11% |
-| Ethena | ENA | 0.9517 | -10.17% |
-| OKB | OKB | 46.84 | -3.98% |
-| Cosmos | ATOM | 6.39 | -7.51% |
+| Cardano | ADA | 0.9501 | -5.08% |
+| TRON | TRX | 0.2511 | -0.98% |
+| Wrapped Bitcoin | WBTC | 95,259.07 | -1.92% |
+| Avalanche | AVAX | 37.51 | -5.37% |
+| Sui | SUI | 4.87 | +1.24% |
+| Toncoin | TON | 5.32 | -0.58% |
+| Chainlink | LINK | 20.52 | -4.71% |
+| Stellar | XLM | 0.4266 | +0.95% |
+| Shiba Inu | SHIB | 0.00002134 | -2.54% |
+| Hedera | HBAR | 0.2855 | -1.70% |
+| Polkadot | DOT | 6.75 | -4.60% |
+| Bitcoin Cash | BCH | 434.61 | -0.84% |
+| UNUS SED LEO | LEO | 9.01 | +0.12% |
+| Uniswap | UNI | 13.11 | -3.80% |
+| Litecoin | LTC | 101.82 | -1.38% |
+| Bitget Token | BGB | 6.35 | -2.85% |
+| Pepe | PEPE | 0.0000178 | -4.57% |
+| NEAR Protocol | NEAR | 5.15 | -4.82% |
+| Dai | DAI | 1.00 | +0.07% |
+| Internet Computer | ICP | 10.88 | -2.31% |
+| Aptos | APT | 9.03 | -6.80% |
+| Aave | AAVE | 293.59 | -4.88% |
+| Mantle | MNT | 1.21 | -5.10% |
+| Cronos | CRO | 0.1458 | -2.91% |
+| Render Token | RENDER | 7.58 | -7.18% |
+| Polygon Ecosystem Token | POL | 0.4626 | -2.28% |
+| MANTRA | OM | 4.04 | +4.00% |
+| WhiteBIT Token | WBT | 26.63 | -1.40% |
+| Ethereum Classic | ETC | 25.24 | -3.28% |
+| Monero | XMR | 199.29 | +2.15% |
+| VeChain | VET | 0.04513 | -4.34% |
+| Virtual Protocol | VIRTUAL | 3.63 | -3.87% |
+| Tokenize Xchange | TKX | 42.64 | +0.92% |
+| bittensor | TAO | 470.03 | -6.83% |
+| Arbitrum | ARB | 0.7881 | -4.65% |
+| Artificial Superintelligence Alliance | FET | 1.33 | -6.49% |
+| Filecoin | FIL | 5.12 | -5.33% |
+| Algorand | ALGO | 0.3601 | -4.75% |
+| Kaspa | KAS | 0.1166 | +1.54% |
+| Ethena | ENA | 0.968 | -8.18% |
+| OKB | OKB | 46.76 | -4.01% |
+| Cosmos | ATOM | 6.48 | -5.27% |
 
-Last Update at Wed Jan  8 16:11:09 2025 Eastern Time
+Last Update at Wed Jan  8 18:11:08 2025 Eastern Time
