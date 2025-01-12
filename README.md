@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 94,709.63 | -0.12% |
-| Ethereum | ETH | 3,280.60 | -0.92% |
-| XRP | XRP | 2.53 | -1.90% |
-| Tether | USDT | 1.00 | -0.19% |
-| BNB | BNB | 696.06 | -0.83% |
-| Solana | SOL | 188.83 | -1.11% |
-| Dogecoin | DOGE | 0.3379 | -2.00% |
-| USD Coin | USDC | 1 | -0.12% |
-| Cardano | ADA | 0.9797 | -0.75% |
-| TRON | TRX | 0.2347 | -3.44% |
-| Wrapped Bitcoin | WBTC | 94,582.36 | -0.12% |
-| Avalanche | AVAX | 36.71 | -2.04% |
-| Sui | SUI | 4.76 | -5.66% |
-| Toncoin | TON | 5.35 | -1.47% |
-| Stellar | XLM | 0.4259 | -5.95% |
-| Shiba Inu | SHIB | 0.00002167 | -2.24% |
-| Chainlink | LINK | 19.94 | -2.76% |
-| Hedera | HBAR | 0.2786 | -4.95% |
-| Polkadot | DOT | 6.66 | -2.24% |
-| Bitcoin Cash | BCH | 454.37 | +2.43% |
-| UNUS SED LEO | LEO | 9.20 | -1.40% |
-| Bitget Token | BGB | 7.12 | -1.24% |
-| Uniswap | UNI | 13.75 | -0.63% |
-| Litecoin | LTC | 103.17 | -0.58% |
-| Pepe | PEPE | 0.00001789 | -1.86% |
-| NEAR Protocol | NEAR | 4.99 | -2.72% |
-| Dai | DAI | 1.00 | -0.34% |
-| Aptos | APT | 8.88 | -3.71% |
-| Internet Computer | ICP | 10.28 | -1.85% |
-| Aave | AAVE | 289.72 | -0.70% |
-| Mantle | MNT | 1.15 | -2.13% |
-| Ethereum Classic | ETC | 25.40 | -1.67% |
-| Polygon Ecosystem Token | POL | 0.4513 | -2.13% |
-| Cronos | CRO | 0.1379 | -3.22% |
-| Render Token | RENDER | 7.16 | -3.68% |
-| Monero | XMR | 200.71 | +0.64% |
-| VeChain | VET | 0.04483 | -2.25% |
-| MANTRA | OM | 3.78 | -3.01% |
-| bittensor | TAO | 443.75 | -0.27% |
-| Filecoin | FIL | 5.11 | -3.05% |
-| Artificial Superintelligence Alliance | FET | 1.30 | -2.75% |
-| Arbitrum | ARB | 0.7345 | -2.38% |
-| Tokenize Xchange | TKX | 38.40 | -3.33% |
-| Kaspa | KAS | 0.118 | +0.81% |
-| Algorand | ALGO | 0.3621 | -5.07% |
-| OKB | OKB | 48.08 | +0.94% |
-| Ethena | ENA | 0.8889 | -3.55% |
-| Cosmos | ATOM | 6.46 | -3.65% |
-| Optimism | OP | 1.79 | -1.27% |
-| Celestia | TIA | 4.95 | +3.51% |
+| Bitcoin | BTC | 94,329.54 | -0.49% |
+| Ethereum | ETH | 3,251.25 | -1.30% |
+| XRP | XRP | 2.50 | -2.38% |
+| Tether | USDT | 1.00 | +0.00% |
+| BNB | BNB | 693.12 | -0.76% |
+| Solana | SOL | 187.71 | -0.47% |
+| Dogecoin | DOGE | 0.3349 | -2.10% |
+| USD Coin | USDC | 1.00 | -0.02% |
+| Cardano | ADA | 0.9673 | -3.46% |
+| TRON | TRX | 0.2324 | -3.91% |
+| Wrapped Bitcoin | WBTC | 94,169.34 | -0.50% |
+| Avalanche | AVAX | 36.34 | -2.31% |
+| Sui | SUI | 4.73 | -5.50% |
+| Toncoin | TON | 5.31 | -1.96% |
+| Stellar | XLM | 0.4225 | -4.25% |
+| Shiba Inu | SHIB | 0.00002145 | -4.11% |
+| Chainlink | LINK | 19.74 | -2.49% |
+| Hedera | HBAR | 0.2757 | -4.99% |
+| Polkadot | DOT | 6.60 | -2.36% |
+| Bitcoin Cash | BCH | 447.90 | +1.33% |
+| Bitget Token | BGB | 7.15 | -1.09% |
+| UNUS SED LEO | LEO | 9.20 | -2.18% |
+| Uniswap | UNI | 13.58 | -0.93% |
+| Litecoin | LTC | 101.98 | -2.41% |
+| Pepe | PEPE | 0.00001765 | -2.57% |
+| NEAR Protocol | NEAR | 4.95 | -2.90% |
+| Dai | DAI | 1.00 | -0.02% |
+| Aptos | APT | 8.78 | -4.11% |
+| Internet Computer | ICP | 10.20 | -2.87% |
+| Aave | AAVE | 287.68 | -0.19% |
+| Mantle | MNT | 1.13 | -2.67% |
+| Ethereum Classic | ETC | 25.15 | -1.79% |
+| Polygon Ecosystem Token | POL | 0.4473 | -2.61% |
+| Cronos | CRO | 0.1373 | -3.13% |
+| Monero | XMR | 200.64 | +1.45% |
+| Render Token | RENDER | 7.09 | -4.26% |
+| MANTRA | OM | 3.77 | -2.57% |
+| VeChain | VET | 0.04434 | -2.36% |
+| bittensor | TAO | 439.84 | -2.22% |
+| Filecoin | FIL | 5.07 | -3.11% |
+| Artificial Superintelligence Alliance | FET | 1.29 | -2.24% |
+| Tokenize Xchange | TKX | 37.97 | -5.58% |
+| Arbitrum | ARB | 0.7267 | -2.76% |
+| Kaspa | KAS | 0.117 | +0.86% |
+| Algorand | ALGO | 0.3587 | -4.90% |
+| OKB | OKB | 47.91 | -0.02% |
+| Ethena | ENA | 0.8734 | -4.51% |
+| Cosmos | ATOM | 6.43 | -3.22% |
+| Optimism | OP | 1.77 | -1.30% |
+| Celestia | TIA | 4.85 | -0.65% |
 
-Last Update at Sun Jan 12 16:11:08 2025 Eastern Time
+Last Update at Sun Jan 12 18:11:09 2025 Eastern Time
