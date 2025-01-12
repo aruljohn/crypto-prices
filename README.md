@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 95,073.03 | +0.60% |
-| Ethereum | ETH | 3,304.90 | +1.77% |
-| XRP | XRP | 2.55 | +8.92% |
-| Tether | USDT | 1.01 | +0.30% |
-| BNB | BNB | 699.79 | +0.93% |
-| Solana | SOL | 189.16 | +1.44% |
-| Dogecoin | DOGE | 0.3416 | +2.46% |
+| Bitcoin | BTC | 94,810.67 | +0.51% |
+| Ethereum | ETH | 3,290.96 | +1.33% |
+| XRP | XRP | 2.55 | +9.05% |
+| Tether | USDT | 1.00 | -0.04% |
+| BNB | BNB | 697.70 | +0.41% |
+| Solana | SOL | 187.48 | +0.62% |
+| Dogecoin | DOGE | 0.3434 | +3.48% |
 | USD Coin | USDC | 1.00 | -0.01% |
-| Cardano | ADA | 1.03 | +11.20% |
-| TRON | TRX | 0.242 | -0.78% |
-| Wrapped Bitcoin | WBTC | 94,943.10 | +0.58% |
-| Avalanche | AVAX | 37.35 | +2.96% |
-| Sui | SUI | 4.94 | -2.65% |
-| Toncoin | TON | 5.43 | +0.82% |
-| Stellar | XLM | 0.442 | +7.59% |
-| Shiba Inu | SHIB | 0.00002201 | +2.17% |
-| Chainlink | LINK | 20.37 | +1.71% |
-| Hedera | HBAR | 0.2897 | +3.71% |
-| Polkadot | DOT | 6.82 | +2.01% |
-| Bitcoin Cash | BCH | 442.86 | -0.03% |
-| UNUS SED LEO | LEO | 9.45 | +1.11% |
-| Bitget Token | BGB | 7.26 | +6.21% |
-| Uniswap | UNI | 13.86 | +1.43% |
-| Litecoin | LTC | 105.20 | +1.88% |
-| Pepe | PEPE | 0.00001802 | +1.63% |
-| NEAR Protocol | NEAR | 5.12 | +1.44% |
-| Dai | DAI | 1.00 | +0.16% |
-| Aptos | APT | 9.07 | +0.43% |
-| Internet Computer | ICP | 10.53 | +3.01% |
-| Aave | AAVE | 290.32 | +2.93% |
-| Mantle | MNT | 1.16 | -0.50% |
-| Polygon Ecosystem Token | POL | 0.4625 | +1.27% |
-| Cronos | CRO | 0.1421 | -0.19% |
-| Ethereum Classic | ETC | 25.83 | +1.43% |
-| Render Token | RENDER | 7.37 | +2.94% |
-| MANTRA | OM | 3.93 | +0.43% |
-| Monero | XMR | 198.55 | +1.15% |
-| VeChain | VET | 0.04543 | +1.37% |
-| bittensor | TAO | 446.70 | +2.73% |
-| Tokenize Xchange | TKX | 43.39 | +1.67% |
-| Filecoin | FIL | 5.24 | +1.40% |
-| Artificial Superintelligence Alliance | FET | 1.32 | +0.33% |
-| Algorand | ALGO | 0.3784 | +2.89% |
-| Arbitrum | ARB | 0.7471 | +0.99% |
-| Kaspa | KAS | 0.1181 | +0.73% |
-| OKB | OKB | 48.22 | +1.21% |
-| Ethena | ENA | 0.9032 | +1.37% |
-| Cosmos | ATOM | 6.70 | +1.99% |
-| Optimism | OP | 1.81 | +1.40% |
-| Celestia | TIA | 4.88 | +2.62% |
+| Cardano | ADA | 1.02 | +10.24% |
+| TRON | TRX | 0.241 | -0.91% |
+| Wrapped Bitcoin | WBTC | 94,671.33 | +0.46% |
+| Avalanche | AVAX | 37.20 | +2.36% |
+| Sui | SUI | 4.92 | -2.72% |
+| Toncoin | TON | 5.40 | -0.29% |
+| Stellar | XLM | 0.4423 | +8.99% |
+| Chainlink | LINK | 20.32 | +1.46% |
+| Shiba Inu | SHIB | 0.00002197 | +2.39% |
+| Hedera | HBAR | 0.2891 | +3.94% |
+| Polkadot | DOT | 6.78 | +1.62% |
+| Bitget Token | BGB | 7.40 | +7.02% |
+| Bitcoin Cash | BCH | 442.51 | +0.07% |
+| UNUS SED LEO | LEO | 9.41 | +0.09% |
+| Uniswap | UNI | 13.85 | +1.23% |
+| Litecoin | LTC | 104.69 | +0.93% |
+| Pepe | PEPE | 0.00001796 | +1.74% |
+| NEAR Protocol | NEAR | 5.13 | +1.47% |
+| Dai | DAI | 1.00 | -0.09% |
+| Aptos | APT | 9.07 | +1.29% |
+| Internet Computer | ICP | 10.55 | +3.01% |
+| Aave | AAVE | 291.61 | +3.24% |
+| Mantle | MNT | 1.17 | -0.01% |
+| Polygon Ecosystem Token | POL | 0.4626 | +2.02% |
+| Cronos | CRO | 0.1419 | -0.78% |
+| Ethereum Classic | ETC | 25.72 | +0.96% |
+| Render Token | RENDER | 7.32 | +2.28% |
+| MANTRA | OM | 3.89 | -0.06% |
+| VeChain | VET | 0.04549 | +2.00% |
+| Monero | XMR | 198.19 | +0.69% |
+| bittensor | TAO | 447.44 | +3.58% |
+| Filecoin | FIL | 5.21 | +0.90% |
+| Tokenize Xchange | TKX | 40.26 | +1.08% |
+| Artificial Superintelligence Alliance | FET | 1.32 | -1.79% |
+| Algorand | ALGO | 0.3754 | +2.64% |
+| Arbitrum | ARB | 0.745 | +0.84% |
+| Kaspa | KAS | 0.1171 | +0.65% |
+| OKB | OKB | 47.87 | +0.71% |
+| Ethena | ENA | 0.8991 | +1.14% |
+| Cosmos | ATOM | 6.71 | +1.83% |
+| Optimism | OP | 1.81 | +1.86% |
+| Celestia | TIA | 4.90 | +3.25% |
 
-Last Update at Sat Jan 11 22:11:10 2025 Eastern Time
+Last Update at Sun Jan 12 00:11:09 2025 Eastern Time
