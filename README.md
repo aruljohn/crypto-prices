@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 94,810.67 | +0.51% |
-| Ethereum | ETH | 3,290.96 | +1.33% |
-| XRP | XRP | 2.55 | +9.05% |
-| Tether | USDT | 1.00 | -0.04% |
-| BNB | BNB | 697.70 | +0.41% |
-| Solana | SOL | 187.48 | +0.62% |
-| Dogecoin | DOGE | 0.3434 | +3.48% |
-| USD Coin | USDC | 1.00 | -0.01% |
-| Cardano | ADA | 1.02 | +10.24% |
-| TRON | TRX | 0.241 | -0.91% |
-| Wrapped Bitcoin | WBTC | 94,671.33 | +0.46% |
-| Avalanche | AVAX | 37.20 | +2.36% |
-| Sui | SUI | 4.92 | -2.72% |
-| Toncoin | TON | 5.40 | -0.29% |
-| Stellar | XLM | 0.4423 | +8.99% |
-| Chainlink | LINK | 20.32 | +1.46% |
-| Shiba Inu | SHIB | 0.00002197 | +2.39% |
-| Hedera | HBAR | 0.2891 | +3.94% |
-| Polkadot | DOT | 6.78 | +1.62% |
-| Bitget Token | BGB | 7.40 | +7.02% |
-| Bitcoin Cash | BCH | 442.51 | +0.07% |
-| UNUS SED LEO | LEO | 9.41 | +0.09% |
-| Uniswap | UNI | 13.85 | +1.23% |
-| Litecoin | LTC | 104.69 | +0.93% |
-| Pepe | PEPE | 0.00001796 | +1.74% |
-| NEAR Protocol | NEAR | 5.13 | +1.47% |
-| Dai | DAI | 1.00 | -0.09% |
-| Aptos | APT | 9.07 | +1.29% |
-| Internet Computer | ICP | 10.55 | +3.01% |
-| Aave | AAVE | 291.61 | +3.24% |
-| Mantle | MNT | 1.17 | -0.01% |
-| Polygon Ecosystem Token | POL | 0.4626 | +2.02% |
-| Cronos | CRO | 0.1419 | -0.78% |
-| Ethereum Classic | ETC | 25.72 | +0.96% |
-| Render Token | RENDER | 7.32 | +2.28% |
-| MANTRA | OM | 3.89 | -0.06% |
-| VeChain | VET | 0.04549 | +2.00% |
-| Monero | XMR | 198.19 | +0.69% |
-| bittensor | TAO | 447.44 | +3.58% |
-| Filecoin | FIL | 5.21 | +0.90% |
-| Tokenize Xchange | TKX | 40.26 | +1.08% |
-| Artificial Superintelligence Alliance | FET | 1.32 | -1.79% |
-| Algorand | ALGO | 0.3754 | +2.64% |
-| Arbitrum | ARB | 0.745 | +0.84% |
-| Kaspa | KAS | 0.1171 | +0.65% |
-| OKB | OKB | 47.87 | +0.71% |
-| Ethena | ENA | 0.8991 | +1.14% |
-| Cosmos | ATOM | 6.71 | +1.83% |
-| Optimism | OP | 1.81 | +1.86% |
-| Celestia | TIA | 4.90 | +3.25% |
+| Bitcoin | BTC | 94,565.84 | +0.04% |
+| Ethereum | ETH | 3,273.04 | +0.65% |
+| XRP | XRP | 2.52 | +7.52% |
+| Tether | USDT | 1.00 | -0.02% |
+| BNB | BNB | 694.39 | -0.19% |
+| Solana | SOL | 186.13 | -0.59% |
+| Dogecoin | DOGE | 0.339 | +1.68% |
+| USD Coin | USDC | 1.00 | -0.02% |
+| Cardano | ADA | 1.00 | +8.09% |
+| TRON | TRX | 0.2389 | -1.89% |
+| Wrapped Bitcoin | WBTC | 94,433.66 | +0.02% |
+| Avalanche | AVAX | 36.66 | -0.12% |
+| Sui | SUI | 4.84 | -4.10% |
+| Toncoin | TON | 5.36 | -0.25% |
+| Stellar | XLM | 0.4334 | +6.76% |
+| Shiba Inu | SHIB | 0.00002173 | +0.70% |
+| Chainlink | LINK | 20.04 | -0.01% |
+| Hedera | HBAR | 0.2838 | +1.66% |
+| Polkadot | DOT | 6.68 | +0.10% |
+| Bitget Token | BGB | 7.41 | +5.81% |
+| Bitcoin Cash | BCH | 440.71 | +0.03% |
+| UNUS SED LEO | LEO | 9.40 | +0.42% |
+| Uniswap | UNI | 13.70 | +0.58% |
+| Litecoin | LTC | 103.81 | -0.18% |
+| Pepe | PEPE | 0.00001768 | -0.75% |
+| NEAR Protocol | NEAR | 5.06 | -0.07% |
+| Dai | DAI | 1.00 | -0.04% |
+| Aptos | APT | 8.93 | -0.27% |
+| Internet Computer | ICP | 10.39 | +1.69% |
+| Aave | AAVE | 287.72 | +1.57% |
+| Mantle | MNT | 1.16 | -0.81% |
+| Polygon Ecosystem Token | POL | 0.4571 | +0.62% |
+| Cronos | CRO | 0.1402 | -1.81% |
+| Ethereum Classic | ETC | 25.41 | -0.03% |
+| Render Token | RENDER | 7.23 | +0.75% |
+| MANTRA | OM | 3.88 | -0.42% |
+| Monero | XMR | 196.57 | +0.03% |
+| VeChain | VET | 0.04459 | -0.47% |
+| bittensor | TAO | 443.28 | +1.99% |
+| Tokenize Xchange | TKX | 40.55 | -2.01% |
+| Filecoin | FIL | 5.16 | -0.21% |
+| Artificial Superintelligence Alliance | FET | 1.31 | -2.10% |
+| Algorand | ALGO | 0.3676 | +1.41% |
+| Arbitrum | ARB | 0.7328 | -1.10% |
+| Kaspa | KAS | 0.1163 | +0.54% |
+| OKB | OKB | 47.61 | -0.37% |
+| Ethena | ENA | 0.8922 | -0.57% |
+| Cosmos | ATOM | 6.59 | -0.37% |
+| Optimism | OP | 1.79 | +0.25% |
+| Celestia | TIA | 4.82 | +1.67% |
 
-Last Update at Sun Jan 12 00:11:09 2025 Eastern Time
+Last Update at Sun Jan 12 02:11:11 2025 Eastern Time
