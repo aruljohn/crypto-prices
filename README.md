@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 95,297.92 | +0.66% |
-| Ethereum | ETH | 3,297.87 | +0.19% |
-| XRP | XRP | 2.53 | +0.57% |
-| Tether | USDT | 1.00 | -0.08% |
-| BNB | BNB | 696.25 | -0.37% |
-| Solana | SOL | 190.15 | +1.23% |
-| Dogecoin | DOGE | 0.3408 | +0.48% |
-| USD Coin | USDC | 1.00 | -0.02% |
-| Cardano | ADA | 0.974 | -4.00% |
-| TRON | TRX | 0.2357 | -2.41% |
-| Wrapped Bitcoin | WBTC | 95,157.01 | +0.65% |
-| Avalanche | AVAX | 36.89 | -0.33% |
-| Sui | SUI | 4.77 | -3.64% |
-| Toncoin | TON | 5.33 | -1.71% |
-| Stellar | XLM | 0.4312 | -0.80% |
-| Shiba Inu | SHIB | 0.00002193 | -0.29% |
-| Chainlink | LINK | 20.08 | -0.61% |
-| Hedera | HBAR | 0.2821 | -2.50% |
-| Polkadot | DOT | 6.71 | -0.90% |
-| Bitcoin Cash | BCH | 448.50 | +1.62% |
-| Bitget Token | BGB | 7.04 | -1.53% |
-| UNUS SED LEO | LEO | 9.25 | -1.70% |
-| Uniswap | UNI | 13.73 | -0.04% |
-| Litecoin | LTC | 103.26 | -1.42% |
-| Pepe | PEPE | 0.00001801 | +0.60% |
-| NEAR Protocol | NEAR | 5.01 | -1.36% |
-| Dai | DAI | 1.00 | -0.07% |
-| Aptos | APT | 8.97 | -1.58% |
-| Internet Computer | ICP | 10.38 | -0.56% |
-| Aave | AAVE | 290.49 | +1.12% |
-| Mantle | MNT | 1.15 | -0.89% |
-| Ethereum Classic | ETC | 25.55 | -0.25% |
-| Polygon Ecosystem Token | POL | 0.4564 | -0.55% |
-| Cronos | CRO | 0.1386 | -2.25% |
-| Render Token | RENDER | 7.19 | -2.10% |
-| Monero | XMR | 202.14 | +0.99% |
-| bittensor | TAO | 450.66 | +1.26% |
-| VeChain | VET | 0.04567 | +1.05% |
-| MANTRA | OM | 3.77 | -4.34% |
-| Tokenize Xchange | TKX | 39.31 | -2.29% |
-| Filecoin | FIL | 5.17 | -0.87% |
-| Artificial Superintelligence Alliance | FET | 1.32 | +0.50% |
-| Arbitrum | ARB | 0.739 | -0.73% |
-| Algorand | ALGO | 0.3681 | -1.42% |
-| Kaspa | KAS | 0.1174 | +0.84% |
-| OKB | OKB | 48.19 | +1.16% |
-| Ethena | ENA | 0.9074 | +0.31% |
-| Cosmos | ATOM | 6.61 | -0.30% |
-| Celestia | TIA | 5.01 | +2.39% |
-| Optimism | OP | 1.80 | +0.30% |
+| Bitcoin | BTC | 94,502.38 | -0.64% |
+| Ethereum | ETH | 3,269.01 | -1.12% |
+| XRP | XRP | 2.52 | -0.99% |
+| Tether | USDT | 1.00 | -0.37% |
+| BNB | BNB | 690.17 | -1.43% |
+| Solana | SOL | 186.72 | -1.40% |
+| Dogecoin | DOGE | 0.3351 | -2.11% |
+| USD Coin | USDC | 1.00 | -0.03% |
+| Cardano | ADA | 0.9586 | -6.54% |
+| TRON | TRX | 0.2308 | -4.66% |
+| Wrapped Bitcoin | WBTC | 94,367.95 | -0.65% |
+| Avalanche | AVAX | 35.85 | -4.19% |
+| Sui | SUI | 4.70 | -4.87% |
+| Toncoin | TON | 5.18 | -4.66% |
+| Stellar | XLM | 0.4235 | -4.20% |
+| Shiba Inu | SHIB | 0.00002136 | -3.07% |
+| Chainlink | LINK | 19.66 | -3.64% |
+| Hedera | HBAR | 0.276 | -4.83% |
+| Polkadot | DOT | 6.53 | -4.35% |
+| Bitcoin Cash | BCH | 438.48 | -1.06% |
+| UNUS SED LEO | LEO | 9.21 | -2.47% |
+| Uniswap | UNI | 13.39 | -3.18% |
+| Bitget Token | BGB | 6.82 | -6.08% |
+| Litecoin | LTC | 100.97 | -4.08% |
+| Pepe | PEPE | 0.00001752 | -2.75% |
+| NEAR Protocol | NEAR | 4.91 | -4.30% |
+| Dai | DAI | 1.00 | -0.22% |
+| Aptos | APT | 8.72 | -4.10% |
+| Internet Computer | ICP | 10.13 | -3.92% |
+| Aave | AAVE | 283.07 | -2.57% |
+| Mantle | MNT | 1.12 | -3.49% |
+| Polygon Ecosystem Token | POL | 0.4415 | -4.61% |
+| Ethereum Classic | ETC | 25.03 | -3.23% |
+| Cronos | CRO | 0.1366 | -3.99% |
+| Monero | XMR | 198.55 | +0.01% |
+| Render Token | RENDER | 7.03 | -4.74% |
+| bittensor | TAO | 435.87 | -2.41% |
+| MANTRA | OM | 3.74 | -4.74% |
+| VeChain | VET | 0.0441 | -3.03% |
+| Filecoin | FIL | 5.07 | -3.19% |
+| Artificial Superintelligence Alliance | FET | 1.28 | -3.25% |
+| Tokenize Xchange | TKX | 37.77 | -13.22% |
+| Arbitrum | ARB | 0.7224 | -3.51% |
+| Algorand | ALGO | 0.3583 | -5.36% |
+| Kaspa | KAS | 0.1153 | -2.32% |
+| OKB | OKB | 47.78 | -0.91% |
+| Ethena | ENA | 0.8592 | -4.76% |
+| Cosmos | ATOM | 6.46 | -3.77% |
+| Optimism | OP | 1.77 | -2.55% |
+| Celestia | TIA | 4.86 | -0.36% |
 
-Last Update at Sun Jan 12 20:11:08 2025 Eastern Time
+Last Update at Sun Jan 12 22:11:08 2025 Eastern Time
