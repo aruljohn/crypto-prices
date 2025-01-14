@@ -1,305 +1,305 @@
 {
-    "last_updated": "2025-01-13T20:11:08.666138",
+    "last_updated": "2025-01-13T22:11:08.688050",
     "prices": [
         {
             "name": "Bitcoin",
             "symbol": "BTC",
-            "price": "95,088.67",
-            "24-hour change": "-0.26%"
+            "price": "95,132.70",
+            "24-hour change": "+0.67%"
         },
         {
             "name": "Ethereum",
             "symbol": "ETH",
-            "price": "3,165.03",
-            "24-hour change": "-4.09%"
+            "price": "3,170.13",
+            "24-hour change": "-3.03%"
         },
         {
             "name": "XRP",
             "symbol": "XRP",
-            "price": "2.55",
-            "24-hour change": "+0.44%"
+            "price": "2.53",
+            "24-hour change": "+0.33%"
         },
         {
             "name": "Tether",
             "symbol": "USDT",
             "price": "1.00",
-            "24-hour change": "+0.22%"
+            "24-hour change": "+0.15%"
         },
         {
             "name": "BNB",
             "symbol": "BNB",
-            "price": "692.07",
-            "24-hour change": "-0.61%"
+            "price": "692.76",
+            "24-hour change": "+0.36%"
         },
         {
             "name": "Solana",
             "symbol": "SOL",
-            "price": "184.35",
-            "24-hour change": "-3.05%"
+            "price": "184.12",
+            "24-hour change": "-1.35%"
         },
         {
             "name": "Dogecoin",
             "symbol": "DOGE",
-            "price": "0.3459",
-            "24-hour change": "+1.40%"
+            "price": "0.3434",
+            "24-hour change": "+2.41%"
         },
         {
             "name": "USD Coin",
             "symbol": "USDC",
             "price": "1.00",
-            "24-hour change": "+0.10%"
+            "24-hour change": "+0.04%"
         },
         {
             "name": "Cardano",
             "symbol": "ADA",
-            "price": "0.9557",
-            "24-hour change": "-1.99%"
+            "price": "0.9519",
+            "24-hour change": "-0.76%"
         },
         {
             "name": "TRON",
             "symbol": "TRX",
             "price": "0.2236",
-            "24-hour change": "-5.17%"
+            "24-hour change": "-3.21%"
         },
         {
             "name": "Wrapped Bitcoin",
             "symbol": "WBTC",
-            "price": "94,880.18",
-            "24-hour change": "-0.31%"
+            "price": "94,936.99",
+            "24-hour change": "+0.61%"
         },
         {
             "name": "Avalanche",
             "symbol": "AVAX",
             "price": "35.46",
-            "24-hour change": "-3.89%"
+            "24-hour change": "-1.13%"
         },
         {
             "name": "Sui",
             "symbol": "SUI",
             "price": "4.69",
-            "24-hour change": "-1.62%"
+            "24-hour change": "-0.32%"
         },
         {
             "name": "Toncoin",
             "symbol": "TON",
-            "price": "5.32",
-            "24-hour change": "-0.15%"
+            "price": "5.27",
+            "24-hour change": "+1.77%"
         },
         {
             "name": "Stellar",
             "symbol": "XLM",
-            "price": "0.427",
-            "24-hour change": "-1.09%"
+            "price": "0.4199",
+            "24-hour change": "-0.93%"
         },
         {
             "name": "Shiba Inu",
             "symbol": "SHIB",
-            "price": "0.00002141",
-            "24-hour change": "-2.40%"
+            "price": "0.00002135",
+            "24-hour change": "-0.04%"
         },
         {
             "name": "Chainlink",
             "symbol": "LINK",
-            "price": "19.61",
-            "24-hour change": "-2.43%"
+            "price": "19.50",
+            "24-hour change": "-0.88%"
         },
         {
             "name": "Hedera",
             "symbol": "HBAR",
-            "price": "0.2801",
-            "24-hour change": "-0.80%"
+            "price": "0.2788",
+            "24-hour change": "+0.96%"
         },
         {
             "name": "Polkadot",
             "symbol": "DOT",
-            "price": "6.45",
-            "24-hour change": "-3.93%"
+            "price": "6.44",
+            "24-hour change": "-1.47%"
         },
         {
             "name": "Bitcoin Cash",
             "symbol": "BCH",
-            "price": "431.37",
-            "24-hour change": "-3.88%"
+            "price": "431.54",
+            "24-hour change": "-1.61%"
         },
         {
             "name": "UNUS SED LEO",
             "symbol": "LEO",
-            "price": "9.18",
-            "24-hour change": "-0.84%"
+            "price": "9.24",
+            "24-hour change": "+0.14%"
         },
         {
             "name": "Bitget Token",
             "symbol": "BGB",
-            "price": "6.66",
-            "24-hour change": "-5.43%"
+            "price": "6.60",
+            "24-hour change": "-3.27%"
         },
         {
             "name": "Uniswap",
             "symbol": "UNI",
-            "price": "13.00",
-            "24-hour change": "-5.39%"
+            "price": "13.07",
+            "24-hour change": "-2.38%"
         },
         {
             "name": "Litecoin",
             "symbol": "LTC",
-            "price": "98.96",
-            "24-hour change": "-4.25%"
+            "price": "99.23",
+            "24-hour change": "-1.79%"
         },
         {
             "name": "Pepe",
             "symbol": "PEPE",
-            "price": "0.00001712",
-            "24-hour change": "-5.01%"
+            "price": "0.0000171",
+            "24-hour change": "-2.37%"
         },
         {
             "name": "NEAR Protocol",
             "symbol": "NEAR",
-            "price": "4.79",
-            "24-hour change": "-4.63%"
+            "price": "4.77",
+            "24-hour change": "-2.78%"
         },
         {
             "name": "Dai",
             "symbol": "DAI",
             "price": "1.00",
-            "24-hour change": "+0.27%"
+            "24-hour change": "+0.08%"
         },
         {
             "name": "Aptos",
             "symbol": "APT",
-            "price": "8.54",
-            "24-hour change": "-4.96%"
+            "price": "8.55",
+            "24-hour change": "-1.94%"
         },
         {
             "name": "Internet Computer",
             "symbol": "ICP",
-            "price": "9.96",
-            "24-hour change": "-4.17%"
+            "price": "9.91",
+            "24-hour change": "-2.20%"
         },
         {
             "name": "Aave",
             "symbol": "AAVE",
-            "price": "292.36",
-            "24-hour change": "+0.53%"
+            "price": "296.13",
+            "24-hour change": "+4.68%"
         },
         {
             "name": "Monero",
             "symbol": "XMR",
-            "price": "204.52",
-            "24-hour change": "+1.00%"
+            "price": "203.70",
+            "24-hour change": "+2.55%"
         },
         {
             "name": "Ethereum Classic",
             "symbol": "ETC",
-            "price": "24.76",
-            "24-hour change": "-3.19%"
-        },
-        {
-            "name": "Cronos",
-            "symbol": "CRO",
-            "price": "0.1358",
-            "24-hour change": "-2.08%"
-        },
-        {
-            "name": "Polygon Ecosystem Token",
-            "symbol": "POL",
-            "price": "0.4388",
-            "24-hour change": "-3.84%"
+            "price": "24.80",
+            "24-hour change": "-0.94%"
         },
         {
             "name": "Mantle",
             "symbol": "MNT",
-            "price": "1.11",
-            "24-hour change": "-3.96%"
+            "price": "1.12",
+            "24-hour change": "-0.74%"
         },
         {
-            "name": "MANTRA",
-            "symbol": "OM",
-            "price": "3.82",
-            "24-hour change": "+1.25%"
+            "name": "Cronos",
+            "symbol": "CRO",
+            "price": "0.1353",
+            "24-hour change": "-1.01%"
+        },
+        {
+            "name": "Polygon Ecosystem Token",
+            "symbol": "POL",
+            "price": "0.4411",
+            "24-hour change": "-0.31%"
         },
         {
             "name": "Render Token",
             "symbol": "RENDER",
-            "price": "7.01",
-            "24-hour change": "-2.50%"
+            "price": "7.04",
+            "24-hour change": "+0.17%"
+        },
+        {
+            "name": "MANTRA",
+            "symbol": "OM",
+            "price": "3.76",
+            "24-hour change": "+0.55%"
         },
         {
             "name": "VeChain",
             "symbol": "VET",
-            "price": "0.04367",
-            "24-hour change": "-4.65%"
+            "price": "0.0434",
+            "24-hour change": "-1.52%"
         },
         {
             "name": "bittensor",
             "symbol": "TAO",
-            "price": "421.45",
-            "24-hour change": "-6.48%"
+            "price": "423.21",
+            "24-hour change": "-3.09%"
         },
         {
             "name": "Filecoin",
             "symbol": "FIL",
             "price": "4.98",
-            "24-hour change": "-3.78%"
-        },
-        {
-            "name": "Artificial Superintelligence Alliance",
-            "symbol": "FET",
-            "price": "1.25",
-            "24-hour change": "-5.13%"
+            "24-hour change": "-1.82%"
         },
         {
             "name": "Kaspa",
             "symbol": "KAS",
-            "price": "0.1191",
-            "24-hour change": "+1.44%"
+            "price": "0.1206",
+            "24-hour change": "+4.66%"
+        },
+        {
+            "name": "Artificial Superintelligence Alliance",
+            "symbol": "FET",
+            "price": "1.26",
+            "24-hour change": "-1.79%"
         },
         {
             "name": "Arbitrum",
             "symbol": "ARB",
-            "price": "0.7088",
-            "24-hour change": "-4.15%"
+            "price": "0.7081",
+            "24-hour change": "-1.96%"
         },
         {
             "name": "Algorand",
             "symbol": "ALGO",
-            "price": "0.3574",
-            "24-hour change": "-2.92%"
-        },
-        {
-            "name": "Tokenize Xchange",
-            "symbol": "TKX",
-            "price": "35.49",
-            "24-hour change": "-9.71%"
+            "price": "0.353",
+            "24-hour change": "-1.46%"
         },
         {
             "name": "OKB",
             "symbol": "OKB",
-            "price": "47.27",
-            "24-hour change": "-1.90%"
+            "price": "47.91",
+            "24-hour change": "+0.23%"
+        },
+        {
+            "name": "Tokenize Xchange",
+            "symbol": "TKX",
+            "price": "35.30",
+            "24-hour change": "-6.53%"
         },
         {
             "name": "Cosmos",
             "symbol": "ATOM",
-            "price": "6.31",
-            "24-hour change": "-4.65%"
+            "price": "6.27",
+            "24-hour change": "-2.85%"
         },
         {
             "name": "Ethena",
             "symbol": "ENA",
-            "price": "0.7965",
-            "24-hour change": "-12.22%"
+            "price": "0.8047",
+            "24-hour change": "-6.50%"
         },
         {
             "name": "Optimism",
             "symbol": "OP",
             "price": "1.74",
-            "24-hour change": "-3.49%"
+            "24-hour change": "-1.65%"
         },
         {
             "name": "Celestia",
             "symbol": "TIA",
-            "price": "4.66",
-            "24-hour change": "-7.12%"
+            "price": "4.62",
+            "24-hour change": "-4.85%"
         }
     ]
 }
