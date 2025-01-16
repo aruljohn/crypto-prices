@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 99,030.91 | +1.90% |
-| Ethereum | ETH | 3,340.59 | +3.98% |
-| XRP | XRP | 3.31 | +18.74% |
-| Tether | USDT | 0.9999 | -0.23% |
-| Solana | SOL | 213.81 | +14.14% |
-| BNB | BNB | 711.49 | +2.84% |
-| Dogecoin | DOGE | 0.3806 | +7.64% |
-| USD Coin | USDC | 0.9999 | -0.08% |
-| Cardano | ADA | 1.10 | +8.61% |
-| TRON | TRX | 0.2392 | +6.48% |
-| Avalanche | AVAX | 40.01 | +7.66% |
-| Wrapped Bitcoin | WBTC | 98,793.22 | +1.86% |
-| Stellar | XLM | 0.5037 | +9.11% |
-| Chainlink | LINK | 22.90 | +12.80% |
-| Sui | SUI | 4.70 | +4.16% |
-| Toncoin | TON | 5.53 | +2.97% |
-| Hedera | HBAR | 0.3591 | +19.58% |
-| Shiba Inu | SHIB | 0.00002248 | +6.12% |
-| Polkadot | DOT | 7.26 | +9.49% |
-| Bitcoin Cash | BCH | 459.62 | +5.49% |
-| Litecoin | LTC | 120.26 | +17.99% |
-| UNUS SED LEO | LEO | 9.64 | +4.71% |
-| Uniswap | UNI | 14.38 | +10.07% |
-| Bitget Token | BGB | 6.69 | +4.15% |
-| Pepe | PEPE | 0.00001856 | +8.36% |
-| NEAR Protocol | NEAR | 5.30 | +7.75% |
-| Aptos | APT | 9.38 | +6.21% |
-| Dai | DAI | 0.9996 | -0.33% |
-| Internet Computer | ICP | 10.97 | +7.98% |
-| Aave | AAVE | 315.92 | +9.71% |
-| Polygon Ecosystem Token | POL | 0.4875 | +8.15% |
-| Ethereum Classic | ETC | 27.02 | +7.60% |
-| VeChain | VET | 0.0499 | +10.65% |
-| Algorand | ALGO | 0.4723 | +20.21% |
-| Monero | XMR | 212.45 | +2.38% |
-| Cronos | CRO | 0.1441 | +6.76% |
-| Render Token | RENDER | 7.52 | +9.66% |
-| Kaspa | KAS | 0.1522 | +13.37% |
-| Mantle | MNT | 1.14 | +5.80% |
-| MANTRA | OM | 3.91 | +5.71% |
-| bittensor | TAO | 466.65 | +14.72% |
-| Filecoin | FIL | 5.61 | +8.46% |
-| Artificial Superintelligence Alliance | FET | 1.35 | +6.39% |
-| Arbitrum | ARB | 0.7755 | +6.78% |
-| OKB | OKB | 49.96 | +0.11% |
-| Ethena | ENA | 0.9484 | +21.51% |
-| Cosmos | ATOM | 6.72 | +7.64% |
-| Optimism | OP | 1.89 | +7.54% |
-| Celestia | TIA | 5.03 | +7.36% |
-| Theta Network | THETA | 2.46 | +13.10% |
+| Bitcoin | BTC | 98,268.93 | -1.40% |
+| Ethereum | ETH | 3,299.00 | -1.31% |
+| XRP | XRP | 3.28 | +14.62% |
+| Tether | USDT | 1.00 | -0.00% |
+| BNB | BNB | 706.77 | +0.24% |
+| Solana | SOL | 210.05 | +6.80% |
+| Dogecoin | DOGE | 0.3789 | +2.83% |
+| USD Coin | USDC | 1.00 | +0.02% |
+| Cardano | ADA | 1.08 | +3.14% |
+| TRON | TRX | 0.2364 | +2.42% |
+| Avalanche | AVAX | 39.41 | +0.10% |
+| Wrapped Bitcoin | WBTC | 98,157.41 | -1.27% |
+| Stellar | XLM | 0.4927 | +3.65% |
+| Chainlink | LINK | 22.92 | +6.51% |
+| Sui | SUI | 4.69 | -2.53% |
+| Hedera | HBAR | 0.3588 | +14.00% |
+| Toncoin | TON | 5.52 | +1.68% |
+| Shiba Inu | SHIB | 0.00002208 | -0.32% |
+| Polkadot | DOT | 7.14 | +2.72% |
+| Bitcoin Cash | BCH | 454.33 | +1.53% |
+| Litecoin | LTC | 119.19 | +13.41% |
+| UNUS SED LEO | LEO | 9.61 | -0.15% |
+| Uniswap | UNI | 14.21 | +0.41% |
+| Bitget Token | BGB | 6.63 | +1.98% |
+| Pepe | PEPE | 0.00001825 | -0.31% |
+| NEAR Protocol | NEAR | 5.22 | +0.22% |
+| Dai | DAI | 1.00 | +0.03% |
+| Aptos | APT | 9.17 | -1.93% |
+| Internet Computer | ICP | 10.79 | +0.20% |
+| Aave | AAVE | 311.66 | -0.66% |
+| Polygon Ecosystem Token | POL | 0.472 | -0.54% |
+| VeChain | VET | 0.04925 | +3.98% |
+| Ethereum Classic | ETC | 26.57 | +1.33% |
+| Algorand | ALGO | 0.4653 | +8.88% |
+| Cronos | CRO | 0.1436 | +1.76% |
+| Monero | XMR | 212.01 | +1.96% |
+| Render Token | RENDER | 7.39 | +1.33% |
+| Kaspa | KAS | 0.15 | +9.56% |
+| Mantle | MNT | 1.12 | -0.96% |
+| bittensor | TAO | 451.29 | +3.97% |
+| MANTRA | OM | 3.85 | +1.85% |
+| Filecoin | FIL | 5.51 | +0.95% |
+| Artificial Superintelligence Alliance | FET | 1.33 | -2.04% |
+| Arbitrum | ARB | 0.7596 | -2.23% |
+| OKB | OKB | 49.01 | -3.04% |
+| Ethena | ENA | 0.8918 | +0.88% |
+| Cosmos | ATOM | 6.55 | -0.04% |
+| Optimism | OP | 1.86 | +0.58% |
+| Celestia | TIA | 4.94 | -3.72% |
+| Theta Network | THETA | 2.41 | +3.87% |
 
-Last Update at Thu Jan 16 08:11:08 2025 Eastern Time
+Last Update at Thu Jan 16 10:11:15 2025 Eastern Time
