@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 99,754.77 | +2.53% |
-| Ethereum | ETH | 3,383.46 | +4.45% |
-| XRP | XRP | 3.13 | +9.56% |
-| Tether | USDT | 1.00 | -0.09% |
-| BNB | BNB | 713.85 | +1.81% |
-| Solana | SOL | 202.96 | +6.71% |
-| Dogecoin | DOGE | 0.3794 | +4.78% |
-| USD Coin | USDC | 0.9999 | -0.06% |
-| Cardano | ADA | 1.06 | +2.08% |
-| TRON | TRX | 0.2374 | +5.74% |
-| Wrapped Bitcoin | WBTC | 99,507.58 | +2.55% |
-| Avalanche | AVAX | 39.28 | +5.79% |
-| Stellar | XLM | 0.4814 | +1.85% |
-| Sui | SUI | 4.67 | +2.10% |
-| Chainlink | LINK | 21.80 | +5.70% |
-| Toncoin | TON | 5.56 | +3.33% |
-| Shiba Inu | SHIB | 0.00002231 | +3.46% |
-| Hedera | HBAR | 0.3448 | +11.58% |
-| Polkadot | DOT | 7.04 | +4.66% |
-| Bitcoin Cash | BCH | 458.86 | +4.20% |
-| Litecoin | LTC | 120.18 | +17.48% |
-| UNUS SED LEO | LEO | 9.65 | +4.45% |
-| Uniswap | UNI | 14.36 | +7.68% |
-| Bitget Token | BGB | 6.59 | +1.45% |
-| Pepe | PEPE | 0.00001863 | +6.76% |
-| NEAR Protocol | NEAR | 5.22 | +3.90% |
-| Dai | DAI | 1.00 | -0.11% |
-| Aptos | APT | 9.34 | +3.67% |
-| Internet Computer | ICP | 10.74 | +3.57% |
-| Aave | AAVE | 313.31 | +6.81% |
-| Polygon Ecosystem Token | POL | 0.4816 | +5.33% |
-| Ethereum Classic | ETC | 26.70 | +4.95% |
-| VeChain | VET | 0.04862 | +6.03% |
-| Monero | XMR | 211.83 | +1.79% |
-| Render Token | RENDER | 7.49 | +7.10% |
-| Cronos | CRO | 0.1415 | +2.83% |
-| Algorand | ALGO | 0.4582 | +15.03% |
-| Mantle | MNT | 1.14 | +3.56% |
-| MANTRA | OM | 3.98 | +5.70% |
-| Kaspa | KAS | 0.1477 | +10.32% |
-| bittensor | TAO | 452.46 | +8.73% |
-| Filecoin | FIL | 5.55 | +5.99% |
-| Artificial Superintelligence Alliance | FET | 1.35 | +3.40% |
-| Arbitrum | ARB | 0.7734 | +4.18% |
-| OKB | OKB | 50.38 | +1.51% |
-| Ethena | ENA | 0.9172 | +11.39% |
-| Cosmos | ATOM | 6.63 | +4.22% |
-| Optimism | OP | 1.88 | +4.29% |
-| Celestia | TIA | 5.11 | +6.78% |
-| Virtual Protocol | VIRTUAL | 3.85 | +30.43% |
+| Bitcoin | BTC | 98,743.36 | +1.31% |
+| Ethereum | ETH | 3,303.85 | +1.99% |
+| XRP | XRP | 3.05 | +7.06% |
+| Tether | USDT | 1.00 | -0.13% |
+| BNB | BNB | 703.96 | +0.77% |
+| Solana | SOL | 198.63 | +4.80% |
+| Dogecoin | DOGE | 0.3688 | +2.30% |
+| USD Coin | USDC | 0.9999 | -0.07% |
+| Cardano | ADA | 1.03 | -1.53% |
+| TRON | TRX | 0.2333 | +3.73% |
+| Wrapped Bitcoin | WBTC | 98,512.31 | +1.33% |
+| Avalanche | AVAX | 38.43 | +3.26% |
+| Stellar | XLM | 0.4709 | -0.77% |
+| Sui | SUI | 4.59 | +0.40% |
+| Chainlink | LINK | 21.34 | +3.30% |
+| Toncoin | TON | 5.46 | +0.53% |
+| Shiba Inu | SHIB | 0.00002184 | +1.76% |
+| Hedera | HBAR | 0.3319 | +8.03% |
+| Polkadot | DOT | 6.87 | +1.32% |
+| Bitcoin Cash | BCH | 452.29 | +3.32% |
+| Litecoin | LTC | 117.73 | +14.62% |
+| UNUS SED LEO | LEO | 9.65 | +4.48% |
+| Uniswap | UNI | 14.02 | +5.30% |
+| Bitget Token | BGB | 6.61 | +1.93% |
+| Pepe | PEPE | 0.00001814 | +4.37% |
+| NEAR Protocol | NEAR | 5.10 | +2.32% |
+| Dai | DAI | 1.00 | -0.16% |
+| Aptos | APT | 9.13 | +1.01% |
+| Internet Computer | ICP | 10.45 | +0.73% |
+| Aave | AAVE | 305.79 | +4.18% |
+| Polygon Ecosystem Token | POL | 0.4709 | +2.83% |
+| Ethereum Classic | ETC | 26.10 | +2.52% |
+| Monero | XMR | 210.50 | +2.29% |
+| VeChain | VET | 0.04725 | +1.90% |
+| Cronos | CRO | 0.1384 | +0.54% |
+| Render Token | RENDER | 7.30 | +4.93% |
+| Mantle | MNT | 1.11 | +0.65% |
+| MANTRA | OM | 3.91 | +4.47% |
+| Algorand | ALGO | 0.4463 | +11.38% |
+| Kaspa | KAS | 0.1456 | +7.40% |
+| bittensor | TAO | 444.41 | +7.49% |
+| Filecoin | FIL | 5.40 | +2.51% |
+| Artificial Superintelligence Alliance | FET | 1.32 | +1.37% |
+| Arbitrum | ARB | 0.7518 | +1.64% |
+| OKB | OKB | 49.53 | -1.01% |
+| Ethena | ENA | 0.8809 | +8.70% |
+| Cosmos | ATOM | 6.46 | +1.26% |
+| Optimism | OP | 1.84 | +2.48% |
+| Virtual Protocol | VIRTUAL | 3.77 | +27.94% |
+| Celestia | TIA | 4.97 | +3.99% |
 
-Last Update at Thu Jan 16 02:11:09 2025 Eastern Time
+Last Update at Thu Jan 16 04:11:07 2025 Eastern Time
