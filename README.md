@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 104,740.96 | +4.49% |
-| Ethereum | ETH | 3,514.65 | +5.67% |
-| XRP | XRP | 3.28 | -0.04% |
-| Tether | USDT | 1.00 | -0.06% |
-| Solana | SOL | 219.27 | +3.17% |
-| BNB | BNB | 725.67 | +1.40% |
-| Dogecoin | DOGE | 0.4174 | +9.23% |
-| USD Coin | USDC | 0.999 | -0.07% |
-| Cardano | ADA | 1.16 | +3.79% |
-| TRON | TRX | 0.2493 | +3.93% |
-| Wrapped Bitcoin | WBTC | 104,400.33 | +4.44% |
-| Avalanche | AVAX | 41.49 | +3.91% |
-| Chainlink | LINK | 24.81 | +6.22% |
-| Stellar | XLM | 0.4888 | -1.25% |
-| Sui | SUI | 4.94 | +0.23% |
-| Shiba Inu | SHIB | 0.00002427 | +9.42% |
-| Hedera | HBAR | 0.3724 | -0.79% |
-| Toncoin | TON | 5.60 | +1.76% |
-| Polkadot | DOT | 7.57 | +4.18% |
-| Litecoin | LTC | 137.28 | +7.51% |
-| Bitcoin Cash | BCH | 495.09 | +6.16% |
-| Uniswap | UNI | 15.11 | +5.96% |
-| UNUS SED LEO | LEO | 9.70 | +0.41% |
-| Pepe | PEPE | 0.00002036 | +11.27% |
-| Bitget Token | BGB | 7.04 | +5.28% |
-| NEAR Protocol | NEAR | 5.70 | +9.03% |
-| Aptos | APT | 9.78 | +4.58% |
-| Internet Computer | ICP | 11.42 | +4.27% |
-| Dai | DAI | 1.00 | +0.00% |
-| Aave | AAVE | 333.72 | +5.97% |
-| VeChain | VET | 0.05619 | +8.30% |
-| Monero | XMR | 230.88 | +5.30% |
-| Polygon Ecosystem Token | POL | 0.512 | +6.77% |
-| Ethereum Classic | ETC | 28.52 | +6.05% |
-| Render Token | RENDER | 7.99 | +5.74% |
-| Cronos | CRO | 0.1473 | +1.30% |
-| bittensor | TAO | 491.03 | +8.23% |
-| Algorand | ALGO | 0.4705 | -0.05% |
-| Kaspa | KAS | 0.1495 | +0.49% |
-| Mantle | MNT | 1.14 | +0.50% |
-| MANTRA | OM | 3.86 | +0.26% |
-| Filecoin | FIL | 5.90 | +3.38% |
-| Arbitrum | ARB | 0.824 | +7.88% |
-| OKB | OKB | 57.59 | +15.99% |
-| Artificial Superintelligence Alliance | FET | 1.42 | +4.82% |
-| Ethena | ENA | 0.9762 | +6.39% |
-| Cosmos | ATOM | 7.05 | +5.47% |
-| Celestia | TIA | 5.42 | +7.58% |
-| Optimism | OP | 1.98 | +6.83% |
-| Tokenize Xchange | TKX | 32.66 | +6.40% |
+| Bitcoin | BTC | 104,601.99 | +4.78% |
+| Ethereum | ETH | 3,478.47 | +5.26% |
+| XRP | XRP | 3.28 | +1.24% |
+| Tether | USDT | 1.00 | +0.19% |
+| Solana | SOL | 219.85 | +4.45% |
+| BNB | BNB | 722.54 | +1.77% |
+| Dogecoin | DOGE | 0.4121 | +9.07% |
+| USD Coin | USDC | 1.00 | +0.20% |
+| Cardano | ADA | 1.13 | +3.62% |
+| TRON | TRX | 0.2491 | +4.82% |
+| Avalanche | AVAX | 41.46 | +4.00% |
+| Wrapped Bitcoin | WBTC | 104,294.70 | +4.79% |
+| Chainlink | LINK | 25.07 | +9.07% |
+| Stellar | XLM | 0.4855 | +0.29% |
+| Sui | SUI | 4.86 | +1.49% |
+| Hedera | HBAR | 0.3737 | +1.78% |
+| Shiba Inu | SHIB | 0.00002426 | +10.35% |
+| Toncoin | TON | 5.60 | +2.33% |
+| Polkadot | DOT | 7.52 | +5.27% |
+| Litecoin | LTC | 135.65 | +9.79% |
+| Bitcoin Cash | BCH | 493.10 | +6.73% |
+| Uniswap | UNI | 15.04 | +6.56% |
+| UNUS SED LEO | LEO | 9.72 | +0.72% |
+| Pepe | PEPE | 0.00002032 | +12.00% |
+| Bitget Token | BGB | 7.04 | +5.87% |
+| NEAR Protocol | NEAR | 5.79 | +12.31% |
+| Aptos | APT | 9.76 | +5.77% |
+| Internet Computer | ICP | 11.38 | +4.95% |
+| Dai | DAI | 1.00 | +0.15% |
+| Aave | AAVE | 336.26 | +8.45% |
+| VeChain | VET | 0.0562 | +10.01% |
+| Polygon Ecosystem Token | POL | 0.5074 | +7.27% |
+| Monero | XMR | 232.14 | +5.57% |
+| Ethereum Classic | ETC | 28.37 | +6.34% |
+| Render Token | RENDER | 7.99 | +7.02% |
+| Cronos | CRO | 0.1466 | +2.20% |
+| bittensor | TAO | 488.24 | +10.54% |
+| Algorand | ALGO | 0.4688 | +1.04% |
+| Kaspa | KAS | 0.1531 | +4.28% |
+| Mantle | MNT | 1.13 | +1.88% |
+| MANTRA | OM | 3.83 | +0.53% |
+| Filecoin | FIL | 5.86 | +4.52% |
+| Arbitrum | ARB | 0.8192 | +8.01% |
+| Artificial Superintelligence Alliance | FET | 1.42 | +6.21% |
+| OKB | OKB | 57.89 | +17.30% |
+| Ethena | ENA | 0.9851 | +9.56% |
+| Cosmos | ATOM | 7.09 | +7.38% |
+| Celestia | TIA | 5.40 | +8.13% |
+| Optimism | OP | 1.97 | +7.21% |
+| Tokenize Xchange | TKX | 32.90 | +6.18% |
 
-Last Update at Fri Jan 17 16:11:07 2025 Eastern Time
+Last Update at Fri Jan 17 18:11:07 2025 Eastern Time
