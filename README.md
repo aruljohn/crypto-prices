@@ -3,55 +3,55 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 101,449.43 | +1.70% |
-| Ethereum | ETH | 3,366.80 | -0.49% |
-| XRP | XRP | 3.34 | +6.60% |
-| Tether | USDT | 0.9999 | -0.03% |
-| Solana | SOL | 212.53 | +4.72% |
-| BNB | BNB | 716.23 | +0.33% |
-| Dogecoin | DOGE | 0.3863 | +1.82% |
-| USD Coin | USDC | 0.9995 | -0.04% |
-| Cardano | ADA | 1.12 | +6.12% |
-| TRON | TRX | 0.2447 | +3.06% |
-| Avalanche | AVAX | 40.96 | +4.28% |
-| Wrapped Bitcoin | WBTC | 101,176.58 | +1.68% |
-| Chainlink | LINK | 24.00 | +10.11% |
-| Stellar | XLM | 0.4917 | +2.15% |
-| Sui | SUI | 4.82 | +3.19% |
-| Hedera | HBAR | 0.3837 | +11.28% |
-| Toncoin | TON | 5.49 | -1.31% |
-| Shiba Inu | SHIB | 0.00002278 | +2.13% |
-| Polkadot | DOT | 7.36 | +4.55% |
-| Litecoin | LTC | 139.98 | +16.48% |
-| Bitcoin Cash | BCH | 479.41 | +4.48% |
-| UNUS SED LEO | LEO | 9.74 | +0.92% |
-| Uniswap | UNI | 14.75 | +2.73% |
-| Bitget Token | BGB | 6.96 | +5.70% |
-| Pepe | PEPE | 0.00001853 | -0.53% |
-| NEAR Protocol | NEAR | 5.38 | +3.13% |
-| Aptos | APT | 9.52 | +1.93% |
-| Internet Computer | ICP | 11.27 | +4.91% |
-| Dai | DAI | 1.00 | -0.03% |
-| Aave | AAVE | 320.75 | +2.37% |
-| VeChain | VET | 0.0574 | +18.06% |
-| Ethereum Classic | ETC | 27.86 | +4.34% |
-| Polygon Ecosystem Token | POL | 0.4943 | +2.63% |
-| Monero | XMR | 222.47 | +5.02% |
-| Cronos | CRO | 0.1465 | +3.54% |
-| Algorand | ALGO | 0.4828 | +5.37% |
-| Render Token | RENDER | 7.69 | +2.68% |
-| Mantle | MNT | 1.14 | -0.51% |
-| Kaspa | KAS | 0.1474 | -0.21% |
-| bittensor | TAO | 454.45 | +0.44% |
-| MANTRA | OM | 3.81 | -4.16% |
-| Filecoin | FIL | 5.88 | +5.92% |
-| Artificial Superintelligence Alliance | FET | 1.37 | +1.36% |
-| Arbitrum | ARB | 0.7813 | +1.02% |
-| OKB | OKB | 50.76 | +0.74% |
-| Ethena | ENA | 0.9284 | +1.22% |
-| Cosmos | ATOM | 6.89 | +3.87% |
-| Celestia | TIA | 5.39 | +5.55% |
-| Optimism | OP | 1.89 | +0.81% |
-| Stacks | STX | 1.67 | +5.82% |
+| Bitcoin | BTC | 102,352.76 | +3.58% |
+| Ethereum | ETH | 3,414.30 | +3.20% |
+| XRP | XRP | 3.26 | +6.42% |
+| Tether | USDT | 1.00 | +0.08% |
+| Solana | SOL | 216.60 | +8.84% |
+| BNB | BNB | 721.83 | +2.44% |
+| Dogecoin | DOGE | 0.4178 | +12.99% |
+| USD Coin | USDC | 1.00 | +0.06% |
+| Cardano | ADA | 1.12 | +8.65% |
+| TRON | TRX | 0.2458 | +5.22% |
+| Avalanche | AVAX | 41.50 | +7.77% |
+| Wrapped Bitcoin | WBTC | 102,069.76 | +3.59% |
+| Chainlink | LINK | 24.03 | +12.42% |
+| Stellar | XLM | 0.4833 | +2.44% |
+| Sui | SUI | 4.83 | +5.08% |
+| Hedera | HBAR | 0.3721 | +11.59% |
+| Shiba Inu | SHIB | 0.00002423 | +10.82% |
+| Toncoin | TON | 5.58 | +2.16% |
+| Polkadot | DOT | 7.43 | +8.03% |
+| Litecoin | LTC | 137.06 | +16.38% |
+| Bitcoin Cash | BCH | 479.84 | +5.91% |
+| UNUS SED LEO | LEO | 9.72 | +0.69% |
+| Uniswap | UNI | 14.91 | +6.27% |
+| Bitget Token | BGB | 7.11 | +7.75% |
+| Pepe | PEPE | 0.00001972 | +8.43% |
+| NEAR Protocol | NEAR | 5.54 | +8.51% |
+| Aptos | APT | 9.59 | +4.92% |
+| Internet Computer | ICP | 11.33 | +8.26% |
+| Dai | DAI | 1.00 | +0.09% |
+| Aave | AAVE | 327.37 | +6.89% |
+| VeChain | VET | 0.05535 | +16.91% |
+| Polygon Ecosystem Token | POL | 0.5083 | +7.96% |
+| Ethereum Classic | ETC | 27.97 | +6.97% |
+| Monero | XMR | 220.49 | +4.65% |
+| Render Token | RENDER | 7.92 | +8.30% |
+| Cronos | CRO | 0.1472 | +6.36% |
+| Algorand | ALGO | 0.4741 | +5.85% |
+| Mantle | MNT | 1.15 | +3.14% |
+| Kaspa | KAS | 0.1487 | +2.11% |
+| bittensor | TAO | 462.48 | +4.41% |
+| MANTRA | OM | 3.82 | -2.52% |
+| Filecoin | FIL | 5.87 | +8.41% |
+| OKB | OKB | 59.55 | +20.32% |
+| Artificial Superintelligence Alliance | FET | 1.39 | +5.33% |
+| Arbitrum | ARB | 0.7937 | +5.43% |
+| Ethena | ENA | 0.9485 | +7.63% |
+| Cosmos | ATOM | 6.90 | +6.69% |
+| Celestia | TIA | 5.35 | +7.43% |
+| Optimism | OP | 1.93 | +4.64% |
+| Tokenize Xchange | TKX | 32.08 | +5.49% |
 
-Last Update at Fri Jan 17 02:11:08 2025 Eastern Time
+Last Update at Fri Jan 17 04:11:08 2025 Eastern Time
