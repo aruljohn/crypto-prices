@@ -53,4 +53,4 @@ This page is updated automatically multiple times a day.
 | Cosmos | ATOM | 6.70 | -4.75% |
 | Tokenize Xchange | TKX | 32.59 | -2.23% |
 
-Last Update at Sat Jan 18 22:08:18 2025 Eastern Time
+Last Update at Sat Jan 18 22:11:08 2025 Eastern Time
