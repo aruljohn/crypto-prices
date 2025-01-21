@@ -3,105 +3,105 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 103,630.83 | -4.28% |
-| Ethereum | ETH | 3,313.80 | -1.41% |
-| XRP | XRP | 3.11 | -6.05% |
-| Tether | USDT | 1.00 | +0.13% |
-| Solana | SOL | 240.49 | -7.43% |
-| BNB | BNB | 689.33 | -1.22% |
-| Dogecoin | DOGE | 0.3458 | -8.83% |
-| USD Coin | USDC | 1.00 | +0.04% |
-| Cardano | ADA | 0.9908 | -8.10% |
-| TRON | TRX | 0.2412 | +0.05% |
-| Wrapped Bitcoin | WBTC | 103,448.18 | -4.09% |
-| Chainlink | LINK | 26.08 | +2.18% |
-| Avalanche | AVAX | 36.45 | -4.34% |
-| Stellar | XLM | 0.4389 | -7.22% |
-| Sui | SUI | 4.46 | -6.48% |
-| Hedera | HBAR | 0.3381 | -7.79% |
-| Toncoin | TON | 5.03 | -1.10% |
-| Shiba Inu | SHIB | 0.0000203 | -5.14% |
-| Polkadot | DOT | 6.50 | -2.48% |
-| UNUS SED LEO | LEO | 9.75 | +1.08% |
-| Litecoin | LTC | 119.40 | -0.89% |
-| Bitget Token | BGB | 7.24 | +2.57% |
-| Bitcoin Cash | BCH | 435.34 | -4.39% |
-| Uniswap | UNI | 13.57 | -3.67% |
-| OFFICIAL TRUMP | TRUMP | 39.42 | -27.47% |
-| Pepe | PEPE | 0.00001529 | -8.83% |
-| NEAR Protocol | NEAR | 5.11 | -5.53% |
-| Aave | AAVE | 366.73 | +5.86% |
-| Dai | DAI | 1.00 | +0.20% |
-| Aptos | APT | 8.39 | -5.46% |
-| Internet Computer | ICP | 9.72 | -4.16% |
-| Ondo | ONDO | 1.33 | -6.63% |
-| VeChain | VET | 0.04716 | -4.39% |
-| Ethereum Classic | ETC | 26.15 | -2.72% |
-| Polygon Ecosystem Token | POL | 0.4524 | -3.13% |
-| Monero | XMR | 206.61 | -2.65% |
-| Cronos | CRO | 0.1335 | -0.79% |
-| Algorand | ALGO | 0.4281 | -6.95% |
-| OKB | OKB | 59.90 | -0.96% |
-| Mantle | MNT | 1.08 | +11.02% |
-| Render Token | RENDER | 6.79 | -4.64% |
-| MANTRA | OM | 3.59 | -6.51% |
-| Kaspa | KAS | 0.1323 | +3.73% |
-| bittensor | TAO | 405.70 | -9.82% |
-| Filecoin | FIL | 5.11 | -3.03% |
-| Arbitrum | ARB | 0.7083 | -3.13% |
-| Artificial Superintelligence Alliance | FET | 1.20 | -3.09% |
-| Ethena | ENA | 0.9242 | +2.73% |
-| Tokenize Xchange | TKX | 30.06 | -8.31% |
-| Cosmos | ATOM | 6.07 | -3.72% |
-| Optimism | OP | 1.74 | -2.71% |
-| Celestia | TIA | 4.71 | -3.30% |
-| Raydium | RAY | 7.81 | +8.50% |
-| Bonk | BONK | 0.00002905 | -13.87% |
-| Stacks | STX | 1.42 | -5.31% |
-| Injective | INJ | 21.42 | -7.79% |
-| Immutable X | IMX | 1.22 | +0.20% |
-| Theta Network | THETA | 2.07 | -1.91% |
-| The Graph | GRT | 0.2032 | -3.09% |
-| GateToken | GT | 21.10 | +2.33% |
-| XDC Network | XDC | 0.1182 | -10.14% |
-| First Digital USD | FDUSD | 0.9987 | +0.06% |
-| Worldcoin | WLD | 1.89 | -6.70% |
-| Fasttoken | FTN | 3.85 | +0.19% |
-| Lido DAO Token | LDO | 1.88 | +6.71% |
-| Virtual Protocol | VIRTUAL | 2.56 | -4.24% |
-| FLARE | FLR | 0.02856 | +2.87% |
-| Movement | MOVE | 0.6827 | -9.14% |
-| Sei | SEI | 0.3493 | -4.91% |
-| Jupiter | JUP | 0.8987 | -10.29% |
-| Pudgy Penguins | PENGU | 0.02377 | -5.90% |
-| KuCoin Token | KCS | 11.33 | -2.28% |
-| The Sandbox | SAND | 0.567 | -4.51% |
-| dogwifhat | WIF | 1.38 | -10.30% |
-| JasmyCoin | JASMY | 0.02785 | -3.09% |
-| Floki | FLOKI | 0.0001397 | -7.39% |
-| Quant | QNT | 106.59 | -5.52% |
-| EOS | EOS | 0.8279 | -4.22% |
-| Kaia | KAIA | 0.2172 | -1.82% |
-| Tezos | XTZ | 1.21 | -6.49% |
-| Ethereum Name Service | ENS | 34.70 | -1.89% |
-| Gala | GALA | 0.0333 | -3.86% |
-| IOTA | IOTA | 0.3248 | -8.20% |
-| THORChain | RUNE | 3.34 | -3.80% |
-| Maker | MKR | 1,316.09 | -1.63% |
-| Pyth Network | PYTH | 0.3048 | -8.10% |
-| Flow | FLOW | 0.7037 | -4.29% |
-| Curve DAO Token | CRV | 0.863 | -4.49% |
-| BitTorrent | BTT | 0.000001088 | -1.81% |
-| Bitcoin SV | BSV | 52.19 | -2.83% |
-| Neo | NEO | 14.48 | -4.18% |
-| AIOZ Network | AIOZ | 0.8636 | -5.83% |
-| Beam | beam | 0.01984 | -9.24% |
-| Arweave | AR | 14.62 | -7.98% |
-| Axie Infinity | AXS | 5.94 | -3.04% |
-| Decentraland | MANA | 0.4829 | -4.26% |
-| StarkNet | STRK | 0.379 | -4.40% |
-| Brett | BRETT | 0.09224 | -5.71% |
-| Nexo | NEXO | 1.36 | -2.67% |
-| MultiversX | EGLD | 31.81 | -3.92% |
+| Bitcoin | BTC | 104,553.36 | -2.47% |
+| Ethereum | ETH | 3,306.71 | -0.28% |
+| XRP | XRP | 3.13 | -4.01% |
+| Tether | USDT | 1.00 | +0.17% |
+| Solana | SOL | 241.06 | -4.79% |
+| BNB | BNB | 690.95 | -0.49% |
+| Dogecoin | DOGE | 0.3762 | +1.24% |
+| USD Coin | USDC | 1.00 | +0.09% |
+| Cardano | ADA | 0.9975 | -5.59% |
+| TRON | TRX | 0.2423 | +1.34% |
+| Wrapped Bitcoin | WBTC | 104,508.02 | -2.25% |
+| Chainlink | LINK | 25.85 | +2.14% |
+| Avalanche | AVAX | 36.71 | -1.63% |
+| Stellar | XLM | 0.44 | -3.63% |
+| Sui | SUI | 4.47 | -3.15% |
+| Hedera | HBAR | 0.336 | -6.99% |
+| Toncoin | TON | 5.11 | +1.70% |
+| Shiba Inu | SHIB | 0.00002066 | -1.58% |
+| Polkadot | DOT | 6.56 | +0.20% |
+| Litecoin | LTC | 121.66 | +1.89% |
+| UNUS SED LEO | LEO | 9.57 | -1.18% |
+| Bitcoin Cash | BCH | 439.40 | -1.87% |
+| Bitget Token | BGB | 7.21 | +2.54% |
+| Uniswap | UNI | 13.53 | -2.85% |
+| OFFICIAL TRUMP | TRUMP | 37.47 | -24.22% |
+| Pepe | PEPE | 0.00001541 | -5.85% |
+| NEAR Protocol | NEAR | 5.13 | -3.33% |
+| Aave | AAVE | 363.92 | +8.94% |
+| Dai | DAI | 1.00 | +0.17% |
+| Aptos | APT | 8.45 | -2.87% |
+| Internet Computer | ICP | 9.77 | -2.04% |
+| Ondo | ONDO | 1.33 | -4.08% |
+| VeChain | VET | 0.04885 | +1.04% |
+| Ethereum Classic | ETC | 26.11 | -1.13% |
+| Monero | XMR | 209.45 | +0.22% |
+| Polygon Ecosystem Token | POL | 0.4528 | -1.14% |
+| Cronos | CRO | 0.1348 | +1.14% |
+| Mantle | MNT | 1.10 | +15.28% |
+| Algorand | ALGO | 0.4287 | -5.73% |
+| Render Token | RENDER | 6.79 | -2.42% |
+| OKB | OKB | 59.26 | -1.47% |
+| MANTRA | OM | 3.59 | -4.77% |
+| Kaspa | KAS | 0.1344 | +4.71% |
+| bittensor | TAO | 401.80 | -7.78% |
+| Filecoin | FIL | 5.14 | -0.82% |
+| Arbitrum | ARB | 0.7075 | -1.44% |
+| Artificial Superintelligence Alliance | FET | 1.21 | -1.71% |
+| Ethena | ENA | 0.8888 | +2.05% |
+| Cosmos | ATOM | 6.12 | -1.37% |
+| Celestia | TIA | 4.71 | -2.26% |
+| Tokenize Xchange | TKX | 29.73 | -7.75% |
+| Optimism | OP | 1.74 | -0.71% |
+| Bonk | BONK | 0.00002959 | -11.76% |
+| Stacks | STX | 1.44 | -1.83% |
+| Injective | INJ | 21.60 | -5.24% |
+| Raydium | RAY | 7.15 | -1.51% |
+| Theta Network | THETA | 2.09 | +0.75% |
+| Immutable X | IMX | 1.21 | +0.79% |
+| The Graph | GRT | 0.2045 | -1.00% |
+| GateToken | GT | 21.43 | +3.43% |
+| Worldcoin | WLD | 1.91 | -4.15% |
+| First Digital USD | FDUSD | 0.9979 | -0.06% |
+| XDC Network | XDC | 0.1175 | -5.82% |
+| Lido DAO Token | LDO | 1.90 | +5.93% |
+| Fasttoken | FTN | 3.86 | +0.20% |
+| Virtual Protocol | VIRTUAL | 2.53 | -3.52% |
+| FLARE | FLR | 0.02803 | +3.57% |
+| Movement | MOVE | 0.6938 | -6.18% |
+| Sei | SEI | 0.3521 | -2.09% |
+| Jupiter | JUP | 0.863 | -10.24% |
+| Pudgy Penguins | PENGU | 0.02348 | -3.99% |
+| dogwifhat | WIF | 1.41 | -5.83% |
+| The Sandbox | SAND | 0.5725 | -1.91% |
+| KuCoin Token | KCS | 11.43 | +0.99% |
+| JasmyCoin | JASMY | 0.02818 | -0.86% |
+| Floki | FLOKI | 0.0001413 | -4.23% |
+| Quant | QNT | 108.06 | -1.87% |
+| EOS | EOS | 0.8376 | -1.77% |
+| Kaia | KAIA | 0.22 | +1.82% |
+| Tezos | XTZ | 1.22 | -4.00% |
+| Gala | GALA | 0.03331 | -2.38% |
+| Ethereum Name Service | ENS | 34.18 | -1.44% |
+| IOTA | IOTA | 0.3286 | -5.89% |
+| THORChain | RUNE | 3.36 | -0.75% |
+| Maker | MKR | 1,307.46 | -0.62% |
+| Pyth Network | PYTH | 0.3071 | -5.34% |
+| Flow | FLOW | 0.7092 | -1.97% |
+| Curve DAO Token | CRV | 0.8529 | -4.02% |
+| BitTorrent | BTT | 0.000001088 | -0.61% |
+| Neo | NEO | 14.63 | -1.37% |
+| Bitcoin SV | BSV | 52.42 | -0.91% |
+| Beam | beam | 0.02005 | -5.99% |
+| AIOZ Network | AIOZ | 0.8428 | -7.87% |
+| Arweave | AR | 14.67 | -5.40% |
+| Decentraland | MANA | 0.4891 | -1.60% |
+| Axie Infinity | AXS | 6.01 | -0.26% |
+| Brett | BRETT | 0.09308 | -1.34% |
+| StarkNet | STRK | 0.382 | -1.40% |
+| MultiversX | EGLD | 31.94 | -1.33% |
+| Nexo | NEXO | 1.35 | -0.99% |
 
-Last Update at Tue Jan 21 06:11:09 2025 Eastern Time
+Last Update at Tue Jan 21 08:11:10 2025 Eastern Time
