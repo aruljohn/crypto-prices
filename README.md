@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | StarkNet | STRK | 0.278 | -14.52% |
 | Decentraland | MANA | 0.3695 | -12.36% |
 
-Last Update at Sun Feb  2 15:52:18 2025 Eastern Time
+Last Update at Sun Feb  2 15:54:36 2025 Eastern Time
