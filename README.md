@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Tether Gold | XAUT | 2,823.01 | +0.20% |
 | Decentraland | MANA | 0.35 | -17.03% |
 
-Last Update at Sun Feb  2 19:27:32 2025 Eastern Time
+Last Update at Sun Feb  2 19:28:14 2025 Eastern Time
