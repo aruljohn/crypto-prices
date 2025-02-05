@@ -3,56 +3,56 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 97,481.50 | -0.71% |
-| Ethereum | ETH | 2,770.78 | +2.08% |
-| Tether | USDT | 1.00 | -0.10% |
-| XRP | XRP | 2.42 | -4.05% |
-| Solana | SOL | 199.20 | -3.13% |
-| BNB | BNB | 569.98 | +0.50% |
-| USD Coin | USDC | 1.00 | -0.07% |
-| Dogecoin | DOGE | 0.2578 | -1.34% |
-| Cardano | ADA | 0.7424 | +0.02% |
-| TRON | TRX | 0.2232 | -0.29% |
-| Wrapped Bitcoin | WBTC | 97,443.52 | -0.74% |
-| Chainlink | LINK | 19.39 | -1.86% |
-| Avalanche | AVAX | 26.04 | -1.07% |
-| Sui | SUI | 3.38 | -4.74% |
-| Stellar | XLM | 0.3293 | -3.75% |
-| Toncoin | TON | 3.83 | +0.95% |
-| Shiba Inu | SHIB | 0.00001589 | +2.38% |
-| Hedera | HBAR | 0.2433 | -2.63% |
-| UNUS SED LEO | LEO | 9.85 | +1.34% |
-| Bitget Token | BGB | 6.57 | +1.26% |
-| Litecoin | LTC | 104.07 | +3.26% |
-| Polkadot | DOT | 4.73 | +0.96% |
-| Bitcoin Cash | BCH | 329.49 | +0.28% |
-| MANTRA | OM | 5.91 | +2.04% |
-| Uniswap | UNI | 9.34 | +3.15% |
-| Dai | DAI | 1.00 | +0.18% |
-| Pepe | PEPE | 0.00001001 | +1.06% |
-| Monero | XMR | 224.93 | +0.84% |
-| Ondo | ONDO | 1.31 | -5.08% |
+| Bitcoin | BTC | 97,497.73 | -0.87% |
+| Ethereum | ETH | 2,777.29 | +2.15% |
+| Tether | USDT | 1.00 | +0.20% |
+| XRP | XRP | 2.42 | -4.49% |
+| Solana | SOL | 199.33 | -3.69% |
+| BNB | BNB | 570.52 | +0.51% |
+| USD Coin | USDC | 1.00 | -0.06% |
+| Dogecoin | DOGE | 0.2585 | -1.29% |
+| Cardano | ADA | 0.7436 | -0.34% |
+| TRON | TRX | 0.2234 | -0.25% |
+| Wrapped Bitcoin | WBTC | 97,472.22 | -0.72% |
+| Chainlink | LINK | 19.41 | -2.35% |
+| Avalanche | AVAX | 26.08 | -1.19% |
+| Sui | SUI | 3.38 | -5.20% |
+| Stellar | XLM | 0.3297 | -3.63% |
+| Toncoin | TON | 3.83 | +0.21% |
+| Shiba Inu | SHIB | 0.00001592 | +1.73% |
+| Hedera | HBAR | 0.2431 | -3.03% |
+| UNUS SED LEO | LEO | 9.85 | +1.28% |
+| Bitget Token | BGB | 6.56 | +0.90% |
+| Litecoin | LTC | 104.26 | +3.15% |
+| Polkadot | DOT | 4.73 | +0.65% |
+| Bitcoin Cash | BCH | 329.66 | -0.31% |
+| MANTRA | OM | 5.92 | +2.28% |
+| Uniswap | UNI | 9.34 | +2.94% |
+| Dai | DAI | 1.00 | +0.00% |
+| Pepe | PEPE | 0.00001002 | +0.52% |
+| Monero | XMR | 225.77 | +0.72% |
+| Ondo | ONDO | 1.31 | -5.22% |
 | WhiteBIT Token | WBT | 27.62 | -0.76% |
-| NEAR Protocol | NEAR | 3.32 | -1.75% |
-| Aave | AAVE | 259.43 | +1.34% |
-| Mantle | MNT | 1.13 | +1.43% |
-| OFFICIAL TRUMP | TRUMP | 18.36 | +8.25% |
-| Aptos | APT | 6.00 | +0.21% |
-| Internet Computer | ICP | 7.02 | +0.65% |
-| Ethereum Classic | ETC | 20.84 | +1.18% |
-| bittensor | TAO | 356.16 | -0.62% |
-| Cronos | CRO | 0.1035 | -2.23% |
-| VeChain | VET | 0.03508 | -1.75% |
-| OKB | OKB | 46.74 | -1.08% |
-| Polygon Ecosystem Token | POL | 0.3153 | +2.71% |
-| Algorand | ALGO | 0.2902 | +0.74% |
-| Kaspa | KAS | 0.09459 | -3.13% |
-| Jupiter | JUP | 0.9031 | -5.03% |
-| Render Token | RENDER | 4.52 | -0.94% |
-| Tokenize Xchange | TKX | 27.09 | +2.41% |
-| Arbitrum | ARB | 0.4767 | +1.49% |
-| Filecoin | FIL | 3.27 | +0.53% |
-| GateToken | GT | 20.90 | -0.49% |
+| NEAR Protocol | NEAR | 3.32 | -2.13% |
+| Aave | AAVE | 259.71 | +1.00% |
+| Mantle | MNT | 1.13 | +1.74% |
+| OFFICIAL TRUMP | TRUMP | 18.39 | +8.53% |
+| Aptos | APT | 6.01 | -0.32% |
+| Internet Computer | ICP | 7.01 | +0.37% |
+| Ethereum Classic | ETC | 20.87 | +1.02% |
+| bittensor | TAO | 355.19 | -0.97% |
+| Cronos | CRO | 0.1037 | -2.51% |
+| VeChain | VET | 0.03516 | -1.69% |
+| OKB | OKB | 46.80 | -1.27% |
+| Polygon Ecosystem Token | POL | 0.3153 | +2.55% |
+| Algorand | ALGO | 0.2903 | +0.22% |
+| Kaspa | KAS | 0.09465 | -3.95% |
+| Jupiter | JUP | 0.9024 | -5.23% |
+| Render Token | RENDER | 4.52 | -1.95% |
+| Tokenize Xchange | TKX | 27.08 | +6.77% |
+| Arbitrum | ARB | 0.4769 | +1.02% |
+| Filecoin | FIL | 3.27 | +0.30% |
+| GateToken | GT | 20.88 | -0.83% |
 | Cosmos | ATOM | 4.75 | +3.09% |
 | First Digital USD | FDUSD | 0.999 | +0.00% |
 | Artificial Superintelligence Alliance | FET | 0.7594 | -2.23% |
@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.5198 | +1.10% |
 | Axie Infinity | AXS | 4.14 | +1.93% |
 
-Last Update at Wed Feb  5 16:18:02 2025 Eastern Time
+Last Update at Wed Feb  5 16:19:03 2025 Eastern Time
