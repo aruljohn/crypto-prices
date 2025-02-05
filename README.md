@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.5173 | -0.30% |
 | Frax | FRAX | 0.9963 | +0.08% |
 
-Last Update at Wed Feb  5 18:12:02 2025 Eastern Time
+Last Update at Wed Feb  5 18:13:02 2025 Eastern Time
