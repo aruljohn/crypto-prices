@@ -53,55 +53,55 @@ This page is updated automatically multiple times a day.
 | Arbitrum | ARB | 0.4771 | +1.52% |
 | Filecoin | FIL | 3.27 | -0.18% |
 | GateToken | GT | 20.88 | -0.79% |
-| Cosmos | ATOM | 4.76 | +2.88% |
-| First Digital USD | FDUSD | 0.9993 | -0.02% |
-| Artificial Superintelligence Alliance | FET | 0.7598 | -2.24% |
-| Ethena | ENA | 0.5534 | -8.50% |
-| Fasttoken | FTN | 3.93 | +0.12% |
-| Raydium | RAY | 5.49 | -10.59% |
-| KuCoin Token | KCS | 12.81 | +0.50% |
-| Celestia | TIA | 3.04 | -4.89% |
-| Lido DAO Token | LDO | 1.73 | +2.52% |
-| Stacks | STX | 0.9866 | -2.11% |
-| Optimism | OP | 1.10 | -0.18% |
-| Movement | MOVE | 0.6039 | -0.93% |
-| Immutable X | IMX | 0.8076 | -0.20% |
-| Injective | INJ | 14.18 | -0.08% |
-| Theta Network | THETA | 1.40 | -1.74% |
-| XDC Network | XDC | 0.09061 | -2.26% |
-| Bonk | BONK | 0.0000178 | -1.20% |
-| The Graph | GRT | 0.1355 | -1.43% |
-| Worldcoin | WLD | 1.30 | -0.05% |
-| Sonic | S | 0.4326 | +2.06% |
-| FLARE | FLR | 0.02002 | -4.78% |
-| JasmyCoin | JASMY | 0.02299 | -1.80% |
-| Quant | QNT | 89.58 | -0.72% |
-| Sei | SEI | 0.2349 | -1.60% |
-| Ethereum Name Service | ENS | 27.46 | +3.15% |
-| The Sandbox | SAND | 0.3942 | -1.54% |
-| EOS | EOS | 0.6026 | -3.00% |
-| Floki | FLOKI | 0.00009493 | -1.21% |
-| Tezos | XTZ | 0.8731 | -0.20% |
-| Nexo | NEXO | 1.36 | -1.27% |
-| Virtual Protocol | VIRTUAL | 1.34 | -10.67% |
-| BitTorrent | BTT | 0.00000088 | -1.46% |
-| Gala | GALA | 0.02278 | +2.66% |
-| IOTA | IOTA | 0.2265 | -0.76% |
-| Kaia | KAIA | 0.1381 | +1.51% |
-| Maker | MKR | 919.14 | -0.25% |
-| Bitcoin SV | BSV | 40.66 | -0.46% |
-| dogwifhat | WIF | 0.7919 | +1.38% |
-| Melania Meme | MELANIA | 1.62 | -0.80% |
-| JITO | JTO | 2.65 | -13.20% |
-| Flow | FLOW | 0.4946 | +0.74% |
-| Neo | NEO | 10.91 | -0.75% |
-| USDD | USDD | 1.00 | +0.77% |
-| Pudgy Penguins | PENGU | 0.0117 | -7.73% |
-| Pyth Network | PYTH | 0.1994 | -1.62% |
-| Tether Gold | XAUT | 2,873.27 | +1.72% |
-| Aerodrome Finance | AERO | 0.9187 | -2.91% |
-| Arweave | AR | 10.32 | +0.60% |
-| Curve DAO Token | CRV | 0.5222 | +0.86% |
-| Axie Infinity | AXS | 4.14 | +1.72% |
+| Cosmos | ATOM | 4.77 | +3.20% |
+| First Digital USD | FDUSD | 0.9994 | -0.02% |
+| Artificial Superintelligence Alliance | FET | 0.7601 | -1.95% |
+| Ethena | ENA | 0.5525 | -9.31% |
+| Fasttoken | FTN | 3.93 | +0.11% |
+| Raydium | RAY | 5.48 | -10.72% |
+| KuCoin Token | KCS | 12.81 | +0.58% |
+| Celestia | TIA | 3.04 | -5.46% |
+| Lido DAO Token | LDO | 1.73 | +2.57% |
+| Stacks | STX | 0.9856 | -2.12% |
+| Optimism | OP | 1.10 | -0.61% |
+| Movement | MOVE | 0.6032 | -1.58% |
+| Immutable X | IMX | 0.8075 | -0.36% |
+| Injective | INJ | 14.18 | -0.05% |
+| Theta Network | THETA | 1.40 | -1.51% |
+| XDC Network | XDC | 0.09058 | -2.44% |
+| Bonk | BONK | 0.00001776 | -1.58% |
+| The Graph | GRT | 0.1355 | -0.98% |
+| Worldcoin | WLD | 1.29 | -0.71% |
+| Sonic | S | 0.4325 | +1.67% |
+| FLARE | FLR | 0.02003 | -4.62% |
+| JasmyCoin | JASMY | 0.02302 | -1.45% |
+| Quant | QNT | 89.61 | -0.47% |
+| Sei | SEI | 0.2347 | -1.91% |
+| Ethereum Name Service | ENS | 27.44 | +2.99% |
+| The Sandbox | SAND | 0.394 | -1.50% |
+| EOS | EOS | 0.6017 | -4.74% |
+| Floki | FLOKI | 0.00009488 | -1.25% |
+| Tezos | XTZ | 0.8733 | -0.04% |
+| Nexo | NEXO | 1.37 | -0.88% |
+| Virtual Protocol | VIRTUAL | 1.33 | -10.85% |
+| BitTorrent | BTT | 0.0000008797 | -1.52% |
+| Gala | GALA | 0.0228 | +3.27% |
+| IOTA | IOTA | 0.2264 | -0.56% |
+| Kaia | KAIA | 0.138 | +1.11% |
+| Maker | MKR | 918.67 | -0.17% |
+| Bitcoin SV | BSV | 40.67 | -0.43% |
+| dogwifhat | WIF | 0.7899 | +0.64% |
+| Melania Meme | MELANIA | 1.62 | -1.17% |
+| JITO | JTO | 2.65 | -13.35% |
+| Flow | FLOW | 0.494 | +0.72% |
+| Neo | NEO | 10.91 | -0.65% |
+| USDD | USDD | 1.00 | +0.47% |
+| Pudgy Penguins | PENGU | 0.01169 | -8.21% |
+| Pyth Network | PYTH | 0.1991 | -2.01% |
+| Tether Gold | XAUT | 2,868.70 | +1.58% |
+| Aerodrome Finance | AERO | 0.918 | -3.08% |
+| Arweave | AR | 10.32 | +1.40% |
+| Curve DAO Token | CRV | 0.5207 | +0.45% |
+| Axie Infinity | AXS | 4.13 | +1.22% |
 
-Last Update at Wed Feb  5 16:24:03 2025 Eastern Time
+Last Update at Wed Feb  5 16:25:03 2025 Eastern Time
