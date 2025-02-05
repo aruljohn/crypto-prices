@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.5207 | -0.52% |
 | Axie Infinity | AXS | 4.14 | +0.61% |
 
-Last Update at Wed Feb  5 16:03:03 2025 Eastern Time
+Last Update at Wed Feb  5 16:04:03 2025 Eastern Time
