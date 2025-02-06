@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.5099 | -4.91% |
 | StarkNet | STRK | 0.251 | -3.64% |
 
-Last Update at Thu Feb  6 06:28:03 2025 Eastern Time
+Last Update at Thu Feb  6 06:29:02 2025 Eastern Time
