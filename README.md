@@ -103,4 +103,4 @@ This page is updated automatically multiple times a day.
 | Arweave | AR | 10.06 | -7.56% |
 | Curve DAO Token | CRV | 0.507 | -5.62% |
 
-Last Update at Thu Feb  6 08:23:03 2025 Eastern Time
+Last Update at Thu Feb  6 08:24:03 2025 Eastern Time
