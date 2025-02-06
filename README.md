@@ -102,4 +102,4 @@ This page is updated automatically multiple times a day.
 | Aerodrome Finance | AERO | 0.8825 | -6.79% |
 | Arweave | AR | 9.95 | -6.81% |
 
-Last Update at Thu Feb  6 10:01:02 2025 Eastern Time
+Last Update at Thu Feb  6 10:02:03 2025 Eastern Time
