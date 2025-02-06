@@ -53,55 +53,55 @@ This page is updated automatically multiple times a day.
 | Filecoin | FIL | 3.28 | -3.00% |
 | Arbitrum | ARB | 0.4688 | -5.50% |
 | GateToken | GT | 21.14 | -0.24% |
-| First Digital USD | FDUSD | 0.9996 | +0.04% |
-| Artificial Superintelligence Alliance | FET | 0.7578 | -5.38% |
-| Cosmos | ATOM | 4.62 | -4.45% |
-| Fasttoken | FTN | 3.93 | +0.01% |
-| Ethena | ENA | 0.5333 | -9.89% |
-| Lido DAO Token | LDO | 1.81 | -1.03% |
-| KuCoin Token | KCS | 12.72 | -0.90% |
-| Celestia | TIA | 2.96 | -8.96% |
-| Raydium | RAY | 5.25 | -9.58% |
-| Optimism | OP | 1.09 | -4.05% |
-| Movement | MOVE | 0.6249 | -2.67% |
-| Stacks | STX | 0.96 | -6.75% |
-| Immutable X | IMX | 0.8023 | -4.34% |
-| Injective | INJ | 14.02 | -5.34% |
-| Theta Network | THETA | 1.38 | -6.27% |
-| Bonk | BONK | 0.00001767 | -5.80% |
-| XDC Network | XDC | 0.08854 | -3.29% |
-| Sonic | S | 0.4579 | +1.13% |
-| The Graph | GRT | 0.1353 | -4.68% |
-| Worldcoin | WLD | 1.29 | -4.88% |
-| FLARE | FLR | 0.02005 | -4.40% |
-| JasmyCoin | JASMY | 0.02287 | -5.36% |
-| Quant | QNT | 87.61 | -4.72% |
-| Sei | SEI | 0.2324 | -5.57% |
-| Ethereum Name Service | ENS | 27.36 | -2.84% |
-| The Sandbox | SAND | 0.3909 | -5.93% |
-| EOS | EOS | 0.6041 | -2.36% |
-| Floki | FLOKI | 0.00009309 | -6.82% |
-| Tezos | XTZ | 0.856 | -5.52% |
-| Nexo | NEXO | 1.34 | -4.41% |
-| BitTorrent | BTT | 0.0000008749 | -2.42% |
-| Virtual Protocol | VIRTUAL | 1.29 | -15.34% |
-| Gala | GALA | 0.02224 | -7.32% |
-| Kaia | KAIA | 0.1398 | -1.97% |
-| IOTA | IOTA | 0.2217 | -6.06% |
-| Maker | MKR | 910.50 | -3.75% |
-| Bitcoin SV | BSV | 39.98 | -4.24% |
-| dogwifhat | WIF | 0.7835 | -5.51% |
-| Neo | NEO | 10.86 | -4.17% |
-| Flow | FLOW | 0.4873 | -4.52% |
-| JITO | JTO | 2.57 | -6.28% |
-| Melania Meme | MELANIA | 1.54 | -8.91% |
-| USDD | USDD | 1.00 | -0.12% |
-| Pudgy Penguins | PENGU | 0.01147 | -11.59% |
-| Pyth Network | PYTH | 0.1971 | -6.00% |
-| Tether Gold | XAUT | 2,874.12 | +0.09% |
-| Aerodrome Finance | AERO | 0.8948 | -3.78% |
-| Arweave | AR | 10.10 | -7.38% |
-| Curve DAO Token | CRV | 0.5076 | -5.79% |
-| StarkNet | STRK | 0.2505 | -3.98% |
+| First Digital USD | FDUSD | 0.9992 | -0.01% |
+| Artificial Superintelligence Alliance | FET | 0.7575 | -5.45% |
+| Cosmos | ATOM | 4.63 | -4.10% |
+| Fasttoken | FTN | 3.93 | -0.02% |
+| Ethena | ENA | 0.5293 | -10.52% |
+| Lido DAO Token | LDO | 1.82 | -0.68% |
+| KuCoin Token | KCS | 12.73 | -0.86% |
+| Celestia | TIA | 2.97 | -8.64% |
+| Raydium | RAY | 5.26 | -9.55% |
+| Optimism | OP | 1.09 | -3.91% |
+| Movement | MOVE | 0.6208 | -3.33% |
+| Stacks | STX | 0.959 | -6.93% |
+| Immutable X | IMX | 0.8023 | -4.39% |
+| Injective | INJ | 14.05 | -5.22% |
+| Theta Network | THETA | 1.38 | -6.80% |
+| Bonk | BONK | 0.00001771 | -5.71% |
+| XDC Network | XDC | 0.0885 | -3.42% |
+| Sonic | S | 0.4545 | +0.54% |
+| The Graph | GRT | 0.1355 | -4.44% |
+| Worldcoin | WLD | 1.29 | -4.66% |
+| FLARE | FLR | 0.02004 | -4.78% |
+| JasmyCoin | JASMY | 0.02286 | -5.49% |
+| Quant | QNT | 87.84 | -4.60% |
+| Sei | SEI | 0.2324 | -5.60% |
+| Ethereum Name Service | ENS | 27.41 | -2.88% |
+| The Sandbox | SAND | 0.3923 | -5.57% |
+| EOS | EOS | 0.6039 | -2.61% |
+| Floki | FLOKI | 0.00009312 | -7.09% |
+| Tezos | XTZ | 0.8572 | -5.43% |
+| Nexo | NEXO | 1.34 | -4.17% |
+| BitTorrent | BTT | 0.0000008756 | -2.40% |
+| Virtual Protocol | VIRTUAL | 1.29 | -15.42% |
+| Gala | GALA | 0.02223 | -7.52% |
+| Kaia | KAIA | 0.1393 | -2.31% |
+| IOTA | IOTA | 0.2226 | -5.61% |
+| Maker | MKR | 913.13 | -3.44% |
+| Bitcoin SV | BSV | 40.02 | -4.22% |
+| dogwifhat | WIF | 0.7844 | -5.50% |
+| Neo | NEO | 10.85 | -4.46% |
+| Flow | FLOW | 0.4879 | -4.34% |
+| JITO | JTO | 2.59 | -5.87% |
+| Melania Meme | MELANIA | 1.53 | -9.37% |
+| USDD | USDD | 1.00 | -0.05% |
+| Pudgy Penguins | PENGU | 0.01136 | -12.38% |
+| Pyth Network | PYTH | 0.197 | -6.11% |
+| Tether Gold | XAUT | 2,875.58 | +0.10% |
+| Aerodrome Finance | AERO | 0.8927 | -3.94% |
+| Arweave | AR | 10.14 | -6.71% |
+| Curve DAO Token | CRV | 0.5089 | -5.55% |
+| StarkNet | STRK | 0.2494 | -4.46% |
 
-Last Update at Thu Feb  6 08:53:02 2025 Eastern Time
+Last Update at Thu Feb  6 08:54:03 2025 Eastern Time
