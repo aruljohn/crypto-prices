@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.5091 | +7.81% |
 | Berachain | BERA | 6.00 | -23.32% |
 
-Last Update at Sat Feb  8 16:21:38 2025 Eastern Time
+Last Update at Sat Feb  8 16:21:44 2025 Eastern Time
