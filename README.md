@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Helium | HNT | 3.76 | -0.59% |
 | Decentraland | MANA | 0.3411 | +1.74% |
 
-Last Update at Mon Feb 17 09:51:56 2025 Eastern Time
+Last Update at Mon Feb 17 09:52:17 2025 Eastern Time
