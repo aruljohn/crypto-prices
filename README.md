@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Helium | HNT | 3.39 | -9.74% |
 | Axie Infinity | AXS | 3.61 | -11.46% |
 
-Last Update at Mon Feb 24 20:11:23 2025 Eastern Time
+Last Update at Mon Feb 24 20:11:34 2025 Eastern Time
