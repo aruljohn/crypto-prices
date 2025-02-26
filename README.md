@@ -3,56 +3,56 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 87,011.52 | -1.31% |
-| Ethereum | ETH | 2,020.74 | -2.86% |
-| Tether | USDT | 1.00 | -0.03% |
-| XRP | XRP | 2.41 | -1.53% |
-| BNB | BNB | 626.15 | -1.39% |
-| Solana | SOL | 140.17 | -4.10% |
-| USD Coin | USDC | 1.00 | +0.15% |
-| Dogecoin | DOGE | 0.1972 | +2.20% |
-| Cardano | ADA | 0.7439 | -2.46% |
-| TRON | TRX | 0.229 | +0.59% |
-| Wrapped Bitcoin | WBTC | 86,839.40 | -1.37% |
-| Chainlink | LINK | 15.42 | -0.41% |
-| Avalanche | AVAX | 22.24 | -2.08% |
-| UNUS SED LEO | LEO | 9.78 | +0.03% |
-| Stellar | XLM | 0.2896 | -1.74% |
-| Toncoin | TON | 3.59 | -2.02% |
-| Shiba Inu | SHIB | 0.00001477 | +7.75% |
-| Hedera | HBAR | 0.1942 | -2.43% |
-| Sui | SUI | 2.59 | +5.47% |
-| Polkadot | DOT | 4.68 | -0.83% |
-| Litecoin | LTC | 93.57 | -0.50% |
-| Bitcoin Cash | BCH | 330.87 | -1.78% |
-| MANTRA | OM | 6.65 | -1.23% |
-| Bitget Token | BGB | 5.06 | +1.50% |
-| Dai | DAI | 1.00 | -0.01% |
-| Uniswap | UNI | 6.86 | -2.66% |
-| WhiteBIT Token | WBT | 29.18 | -0.50% |
-| Monero | XMR | 223.36 | -0.29% |
-| Pepe | PEPE | 0.000008682 | +7.21% |
-| NEAR Protocol | NEAR | 3.01 | +0.19% |
-| Aptos | APT | 5.90 | -0.71% |
-| OKB | OKB | 50.17 | -0.60% |
-| Internet Computer | ICP | 6.18 | +0.62% |
-| Ondo | ONDO | 0.9115 | -2.38% |
-| Mantle | MNT | 0.8434 | +0.11% |
-| Cronos | CRO | 0.1033 | -1.08% |
-| Aave | AAVE | 182.35 | -3.48% |
-| Ethereum Classic | ETC | 18.18 | -1.63% |
-| Tokenize Xchange | TKX | 34.29 | -1.34% |
-| Polygon Ecosystem Token | POL | 0.2325 | +3.75% |
-| First Digital USD | FDUSD | 0.9984 | +0.02% |
-| OFFICIAL TRUMP | TRUMP | 11.55 | -0.52% |
-| VeChain | VET | 0.0267 | -0.00% |
-| bittensor | TAO | 266.33 | -2.52% |
-| Ethena | ENA | 0.4251 | -0.54% |
-| Render Token | RENDER | 4.00 | -2.88% |
-| Celestia | TIA | 3.54 | -3.24% |
-| GateToken | GT | 23.67 | -1.35% |
-| Filecoin | FIL | 3.10 | -1.13% |
-| Kaspa | KAS | 0.07563 | -3.42% |
+| Bitcoin | BTC | 86,978.51 | -1.30% |
+| Ethereum | ETH | 2,020.31 | -2.72% |
+| Tether | USDT | 1.00 | -0.00% |
+| XRP | XRP | 2.42 | -1.37% |
+| BNB | BNB | 626.26 | -1.41% |
+| Solana | SOL | 140.10 | -4.16% |
+| USD Coin | USDC | 1.00 | +0.18% |
+| Dogecoin | DOGE | 0.197 | +2.12% |
+| Cardano | ADA | 0.7446 | -2.52% |
+| TRON | TRX | 0.2291 | +0.64% |
+| Wrapped Bitcoin | WBTC | 86,848.70 | -1.32% |
+| Chainlink | LINK | 15.42 | -0.22% |
+| Avalanche | AVAX | 22.27 | -1.75% |
+| UNUS SED LEO | LEO | 9.80 | +0.20% |
+| Stellar | XLM | 0.2894 | -1.75% |
+| Toncoin | TON | 3.60 | -1.77% |
+| Shiba Inu | SHIB | 0.00001472 | +7.26% |
+| Hedera | HBAR | 0.1941 | -2.17% |
+| Sui | SUI | 2.59 | +4.78% |
+| Polkadot | DOT | 4.68 | -0.48% |
+| Litecoin | LTC | 93.64 | -0.34% |
+| Bitcoin Cash | BCH | 330.73 | -1.61% |
+| MANTRA | OM | 6.63 | -1.55% |
+| Bitget Token | BGB | 5.06 | +1.77% |
+| Dai | DAI | 1.00 | +0.06% |
+| Uniswap | UNI | 6.85 | -2.62% |
+| WhiteBIT Token | WBT | 29.10 | -0.77% |
+| Monero | XMR | 223.19 | -0.19% |
+| Pepe | PEPE | 0.000008696 | +7.39% |
+| NEAR Protocol | NEAR | 3.02 | +0.50% |
+| Aptos | APT | 5.90 | -0.57% |
+| OKB | OKB | 50.14 | -0.60% |
+| Internet Computer | ICP | 6.18 | +0.79% |
+| Ondo | ONDO | 0.9143 | -2.33% |
+| Mantle | MNT | 0.8435 | +0.07% |
+| Cronos | CRO | 0.1033 | -0.53% |
+| Aave | AAVE | 181.95 | -3.37% |
+| Ethereum Classic | ETC | 18.17 | -1.48% |
+| Tokenize Xchange | TKX | 34.29 | -1.33% |
+| Polygon Ecosystem Token | POL | 0.2332 | +4.03% |
+| First Digital USD | FDUSD | 0.9986 | +0.02% |
+| OFFICIAL TRUMP | TRUMP | 11.57 | -0.38% |
+| VeChain | VET | 0.02669 | +0.15% |
+| bittensor | TAO | 266.98 | -2.46% |
+| Ethena | ENA | 0.4241 | -0.97% |
+| Render Token | RENDER | 4.00 | -2.69% |
+| Celestia | TIA | 3.54 | -3.26% |
+| GateToken | GT | 23.70 | -1.24% |
+| Filecoin | FIL | 3.10 | -1.02% |
+| Kaspa | KAS | 0.07553 | -3.54% |
 | Cosmos | ATOM | 4.92 | +1.45% |
 | Loaded Lions | LION | 0.01799 | +4.32% |
 | Arbitrum | ARB | 0.3861 | -1.45% |
@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | SPX6900 | SPX | 0.6343 | +1.42% |
 | Raydium | RAY | 2.02 | +1.68% |
 
-Last Update at Wed Mar 26 11:08:18 2025 Eastern Time
+Last Update at Wed Mar 26 11:08:59 2025 Eastern Time
