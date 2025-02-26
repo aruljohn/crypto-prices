@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Curve DAO Token | CRV | 0.4671 | +5.39% |
 | MultiversX | EGLD | 21.23 | +1.31% |
 
-Last Update at Wed Feb 26 12:31:36 2025 Eastern Time
+Last Update at Wed Feb 26 12:35:26 2025 Eastern Time
