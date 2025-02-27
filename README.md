@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | dogwifhat | WIF | 0.5687 | -6.56% |
 | Grass | GRASS | 2.29 | -1.44% |
 
-Last Update at Tue Mar  4 23:44:30 2025 Eastern Time
+Last Update at Tue Mar  4 23:44:35 2025 Eastern Time
