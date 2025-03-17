@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Axie Infinity | AXS | 3.37 | +5.32% |
 | Kava | KAVA | 0.4958 | +3.68% |
 
-Last Update at Mon Mar 17 09:06:41 2025 Eastern Time
+Last Update at Mon Mar 17 09:08:50 2025 Eastern Time
