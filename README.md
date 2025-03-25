@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Raydium | RAY | 2.04 | +4.83% |
 | Zcash | ZEC | 38.11 | +4.73% |
 
-Last Update at Wed Mar 26 10:06:05 2025 Eastern Time
+Last Update at Wed Mar 26 10:06:25 2025 Eastern Time
