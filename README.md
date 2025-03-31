@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | JasmyCoin | JASMY | 0.01048 | +4.07% |
 | Fartcoin | FARTCOIN | 0.5104 | +20.35% |
 
-Last Update at Fri Apr  4 23:45:01 2025 Eastern Time
+Last Update at Fri Apr  4 23:46:25 2025 Eastern Time
