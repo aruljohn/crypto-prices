@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Raydium | RAY | 1.57 | -4.13% |
 | Pendle | PENDLE | 2.83 | -0.61% |
 
-Last Update at Tue Apr  8 14:19:06 2025 Eastern Time
+Last Update at Tue Apr  8 14:19:08 2025 Eastern Time
