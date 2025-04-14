@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Ethereum Name Service | ENS | 14.43 | -0.92% |
 | Tezos | XTZ | 0.4955 | -1.57% |
 
-Last Update at Sun Apr 20 19:18:22 2025 Eastern Time
+Last Update at Sun Apr 20 19:18:24 2025 Eastern Time
