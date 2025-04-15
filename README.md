@@ -3,56 +3,56 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 96,343.85 | +1.81% |
-| Ethereum | ETH | 1,849.19 | +4.08% |
-| Tether | USDT | 1.00 | -0.02% |
-| XRP | XRP | 2.24 | +1.96% |
-| BNB | BNB | 603.15 | +0.50% |
-| Solana | SOL | 152.08 | +4.68% |
-| USD Coin | USDC | 0.9998 | -0.11% |
-| Dogecoin | DOGE | 0.1791 | +4.12% |
-| Cardano | ADA | 0.7058 | +2.59% |
-| TRON | TRX | 0.2491 | +1.58% |
-| Wrapped Bitcoin | WBTC | 96,312.51 | +1.85% |
-| Sui | SUI | 3.70 | +6.87% |
-| Chainlink | LINK | 14.94 | +4.44% |
-| Avalanche | AVAX | 21.41 | +1.10% |
-| Stellar | XLM | 0.2788 | +1.98% |
-| UNUS SED LEO | LEO | 8.94 | -1.23% |
-| Shiba Inu | SHIB | 0.00001365 | +3.32% |
-| Hedera | HBAR | 0.1895 | +4.11% |
-| Toncoin | TON | 3.19 | -0.97% |
-| Bitcoin Cash | BCH | 371.53 | +1.86% |
-| Litecoin | LTC | 87.10 | +4.03% |
-| Polkadot | DOT | 4.17 | +1.91% |
-| Dai | DAI | 0.9999 | -0.04% |
-| Bitget Token | BGB | 4.38 | +0.16% |
-| Monero | XMR | 272.09 | +0.67% |
-| WhiteBIT Token | WBT | 29.32 | +0.83% |
-| Pepe | PEPE | 0.000009022 | +1.81% |
-| Aptos | APT | 5.55 | +4.49% |
-| Uniswap | UNI | 5.38 | +2.63% |
-| bittensor | TAO | 371.69 | +4.28% |
-| OKB | OKB | 51.92 | +1.15% |
-| NEAR Protocol | NEAR | 2.58 | +4.75% |
-| Ondo | ONDO | 0.9305 | +2.20% |
-| GateToken | GT | 21.74 | +0.11% |
-| OFFICIAL TRUMP | TRUMP | 13.16 | +4.00% |
-| Aave | AAVE | 174.29 | +8.40% |
-| Internet Computer | ICP | 4.92 | +1.30% |
-| Ethereum Classic | ETC | 16.90 | +1.77% |
-| Polygon Ecosystem Token | POL | 0.2449 | +2.63% |
-| Mantle | MNT | 0.7446 | +1.36% |
-| Kaspa | KAS | 0.09532 | +9.04% |
-| Cronos | CRO | 0.09033 | +2.01% |
-| Tokenize Xchange | TKX | 29.88 | +0.10% |
-| Render Token | RENDER | 4.61 | +5.56% |
-| VeChain | VET | 0.02716 | +2.33% |
-| Algorand | ALGO | 0.2267 | +2.59% |
-| Fasttoken | FTN | 4.27 | -0.36% |
-| Filecoin | FIL | 2.82 | +2.56% |
-| Ethena | ENA | 0.3341 | +6.99% |
-| Loaded Lions | LION | 0.01859 | -1.08% |
+| Bitcoin | BTC | 96,359.00 | +1.85% |
+| Ethereum | ETH | 1,849.33 | +4.02% |
+| Tether | USDT | 1.00 | -0.01% |
+| XRP | XRP | 2.24 | +1.95% |
+| BNB | BNB | 603.22 | +0.45% |
+| Solana | SOL | 152.05 | +4.79% |
+| USD Coin | USDC | 1.00 | -0.04% |
+| Dogecoin | DOGE | 0.179 | +3.91% |
+| Cardano | ADA | 0.7047 | +2.50% |
+| TRON | TRX | 0.249 | +1.52% |
+| Wrapped Bitcoin | WBTC | 96,344.93 | +1.89% |
+| Sui | SUI | 3.71 | +7.25% |
+| Chainlink | LINK | 14.94 | +4.25% |
+| Avalanche | AVAX | 21.42 | +0.80% |
+| Stellar | XLM | 0.2786 | +1.64% |
+| UNUS SED LEO | LEO | 8.96 | -1.19% |
+| Shiba Inu | SHIB | 0.00001364 | +3.15% |
+| Hedera | HBAR | 0.1892 | +3.87% |
+| Toncoin | TON | 3.19 | -1.19% |
+| Bitcoin Cash | BCH | 371.45 | +1.87% |
+| Litecoin | LTC | 87.16 | +3.83% |
+| Polkadot | DOT | 4.18 | +2.03% |
+| Dai | DAI | 0.9998 | -0.03% |
+| Bitget Token | BGB | 4.38 | +0.12% |
+| Monero | XMR | 272.82 | +0.77% |
+| WhiteBIT Token | WBT | 29.32 | +0.87% |
+| Pepe | PEPE | 0.000009034 | +1.94% |
+| Aptos | APT | 5.55 | +4.44% |
+| Uniswap | UNI | 5.39 | +2.75% |
+| bittensor | TAO | 371.28 | +4.46% |
+| OKB | OKB | 51.81 | +0.89% |
+| NEAR Protocol | NEAR | 2.58 | +4.60% |
+| Ondo | ONDO | 0.9312 | +3.02% |
+| GateToken | GT | 21.81 | +0.39% |
+| OFFICIAL TRUMP | TRUMP | 13.16 | +5.36% |
+| Aave | AAVE | 174.44 | +8.49% |
+| Internet Computer | ICP | 4.91 | +1.02% |
+| Ethereum Classic | ETC | 16.91 | +1.63% |
+| Polygon Ecosystem Token | POL | 0.2463 | +3.62% |
+| Mantle | MNT | 0.7442 | +1.29% |
+| Kaspa | KAS | 0.09512 | +9.32% |
+| Cronos | CRO | 0.09054 | +2.18% |
+| Tokenize Xchange | TKX | 29.88 | +0.13% |
+| Render Token | RENDER | 4.61 | +5.58% |
+| VeChain | VET | 0.02717 | +2.30% |
+| Algorand | ALGO | 0.2268 | +2.60% |
+| Fasttoken | FTN | 4.27 | -0.39% |
+| Filecoin | FIL | 2.82 | +2.53% |
+| Ethena | ENA | 0.3343 | +7.53% |
+| Loaded Lions | LION | 0.01858 | -1.08% |
 | Artificial Superintelligence Alliance | FET | 0.7694 | +7.86% |
 | Cosmos | ATOM | 4.41 | +1.35% |
 | Celestia | TIA | 2.77 | +2.31% |
@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Solayer | LAYER | 2.99 | -4.61% |
 | Movement | MOVE | 0.2503 | +1.43% |
 
-Last Update at Thu May  1 09:00:34 2025 Eastern Time
+Last Update at Thu May  1 09:00:36 2025 Eastern Time
