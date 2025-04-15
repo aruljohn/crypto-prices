@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Solayer | LAYER | 3.00 | -4.11% |
 | Movement | MOVE | 0.2499 | +0.28% |
 
-Last Update at Thu May  1 08:56:35 2025 Eastern Time
+Last Update at Thu May  1 08:56:36 2025 Eastern Time
