@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | DeepBook Protocol | DEEP | 0.2039 | +12.94% |
 | Solayer | LAYER | 3.00 | -5.17% |
 
-Last Update at Thu May  1 09:43:07 2025 Eastern Time
+Last Update at Thu May  1 09:43:09 2025 Eastern Time
