@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Decentraland | MANA | 0.2927 | +2.75% |
 | Tezos | XTZ | 0.5311 | +1.77% |
 
-Last Update at Wed May  7 16:39:07 2025 Eastern Time
+Last Update at Wed May  7 16:39:26 2025 Eastern Time
