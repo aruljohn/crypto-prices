@@ -3,56 +3,56 @@ This page is updated automatically multiple times a day.
 
 | Name | Symbol | Price | 24 Hour Change |
 | :---: |:---:| :---: | :---: |
-| Bitcoin | BTC | 112,583.24 | -1.47% |
-| Ethereum | ETH | 4,251.48 | -2.07% |
-| XRP | XRP | 2.88 | -2.69% |
-| Tether | USDT | 0.9998 | -0.01% |
-| BNB | BNB | 840.29 | -4.30% |
-| Solana | SOL | 181.47 | -2.94% |
+| Bitcoin | BTC | 112,619.57 | -1.48% |
+| Ethereum | ETH | 4,253.19 | -2.11% |
+| XRP | XRP | 2.88 | -2.78% |
+| Tether | USDT | 0.9999 | -0.01% |
+| BNB | BNB | 840.75 | -4.21% |
+| Solana | SOL | 181.54 | -2.92% |
 | USD Coin | USDC | 1.00 | +0.05% |
-| TRON | TRX | 0.3543 | +0.10% |
-| Dogecoin | DOGE | 0.2172 | -1.93% |
-| Cardano | ADA | 0.8613 | -2.26% |
-| Chainlink | LINK | 24.95 | -5.48% |
-| Wrapped Bitcoin | WBTC | 112,623.16 | -1.45% |
-| Stellar | XLM | 0.3938 | -3.11% |
-| Sui | SUI | 3.43 | -3.57% |
-| Bitcoin Cash | BCH | 555.89 | -0.69% |
-| Hedera | HBAR | 0.2371 | -1.87% |
-| Avalanche | AVAX | 22.98 | -1.97% |
-| UNUS SED LEO | LEO | 9.56 | +0.20% |
-| Litecoin | LTC | 115.23 | -0.86% |
-| Toncoin | TON | 3.31 | +1.12% |
-| Shiba Inu | SHIB | 0.00001244 | -1.08% |
-| Uniswap | UNI | 10.28 | -3.11% |
-| Polkadot | DOT | 3.83 | -1.52% |
-| WhiteBIT Token | WBT | 42.56 | -1.64% |
-| Dai | DAI | 0.9997 | -0.06% |
-| Bitget Token | BGB | 4.64 | +1.04% |
-| Monero | XMR | 263.09 | -0.84% |
-| Cronos | CRO | 0.1424 | -1.10% |
-| OKB | OKB | 220.46 | +32.39% |
-| Aave | AAVE | 300.96 | +1.30% |
-| Pepe | PEPE | 0.0000104 | -2.49% |
-| Mantle | MNT | 1.25 | -5.74% |
-| Ethena | ENA | 0.6311 | -3.49% |
-| bittensor | TAO | 338.86 | -4.33% |
-| Ethereum Classic | ETC | 21.19 | -1.78% |
-| NEAR Protocol | NEAR | 2.47 | -3.03% |
-| Aptos | APT | 4.43 | -1.23% |
-| Ondo | ONDO | 0.9197 | -2.96% |
-| Internet Computer | ICP | 5.13 | -2.85% |
-| Arbitrum | ARB | 0.5011 | -1.88% |
-| Polygon Ecosystem Token | POL | 0.2384 | -3.01% |
-| Kaspa | KAS | 0.08629 | -1.57% |
-| GateToken | GT | 18.04 | +2.86% |
-| Algorand | ALGO | 0.2512 | -2.31% |
-| Cosmos | ATOM | 4.49 | +0.04% |
-| VeChain | VET | 0.02392 | +0.04% |
-| Fasttoken | FTN | 4.54 | -0.17% |
-| Pudgy Penguins | PENGU | 0.03058 | -4.47% |
-| Render Token | RENDER | 3.57 | -3.53% |
-| Worldcoin | WLD | 0.9376 | -2.25% |
+| TRON | TRX | 0.3545 | +0.17% |
+| Dogecoin | DOGE | 0.2173 | -2.01% |
+| Cardano | ADA | 0.8624 | -2.24% |
+| Chainlink | LINK | 24.96 | -5.88% |
+| Wrapped Bitcoin | WBTC | 112,656.91 | -1.47% |
+| Stellar | XLM | 0.3945 | -3.05% |
+| Sui | SUI | 3.44 | -3.43% |
+| Bitcoin Cash | BCH | 556.38 | -0.66% |
+| Hedera | HBAR | 0.2374 | -1.79% |
+| Avalanche | AVAX | 23.02 | -1.88% |
+| UNUS SED LEO | LEO | 9.58 | +0.38% |
+| Litecoin | LTC | 115.28 | -0.89% |
+| Toncoin | TON | 3.32 | +1.19% |
+| Shiba Inu | SHIB | 0.00001245 | -1.03% |
+| Uniswap | UNI | 10.31 | -3.02% |
+| Polkadot | DOT | 3.84 | -1.38% |
+| WhiteBIT Token | WBT | 42.57 | -1.56% |
+| Dai | DAI | 0.9997 | -0.05% |
+| Bitget Token | BGB | 4.64 | +1.01% |
+| Monero | XMR | 263.00 | -0.87% |
+| Cronos | CRO | 0.1426 | -1.03% |
+| OKB | OKB | 218.67 | +31.06% |
+| Aave | AAVE | 301.55 | +1.44% |
+| Pepe | PEPE | 0.00001042 | -2.29% |
+| Mantle | MNT | 1.25 | -5.62% |
+| Ethena | ENA | 0.6325 | -3.19% |
+| bittensor | TAO | 339.27 | -4.06% |
+| Ethereum Classic | ETC | 21.21 | -1.62% |
+| NEAR Protocol | NEAR | 2.47 | -3.07% |
+| Aptos | APT | 4.44 | -1.19% |
+| Ondo | ONDO | 0.9209 | -2.66% |
+| Internet Computer | ICP | 5.14 | -2.82% |
+| Arbitrum | ARB | 0.5026 | -1.79% |
+| Polygon Ecosystem Token | POL | 0.2385 | -2.88% |
+| Kaspa | KAS | 0.08647 | -1.36% |
+| GateToken | GT | 18.05 | +2.75% |
+| Algorand | ALGO | 0.2515 | -2.22% |
+| Cosmos | ATOM | 4.49 | +0.14% |
+| VeChain | VET | 0.02393 | +0.01% |
+| Fasttoken | FTN | 4.54 | -0.19% |
+| Pudgy Penguins | PENGU | 0.03063 | -4.37% |
+| Render Token | RENDER | 3.57 | -3.45% |
+| Worldcoin | WLD | 0.9394 | -2.13% |
 | Sei | SEI | 0.294 | -4.18% |
 | Story | IP | 5.74 | -2.00% |
 | Bonk | BONK | 0.00002151 | -3.53% |
@@ -103,4 +103,4 @@ This page is updated automatically multiple times a day.
 | Zcash | ZEC | 42.31 | +8.55% |
 | Pyth Network | PYTH | 0.1192 | -1.44% |
 
-Last Update at Thu Aug 21 18:17:35 2025 Eastern Time
+Last Update at Thu Aug 21 18:17:37 2025 Eastern Time
