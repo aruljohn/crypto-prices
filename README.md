@@ -53,54 +53,54 @@ This page is updated automatically multiple times a day.
 | Pudgy Penguins | PENGU | 0.03063 | -4.37% |
 | Render Token | RENDER | 3.57 | -3.45% |
 | Worldcoin | WLD | 0.9394 | -2.13% |
-| Sei | SEI | 0.294 | -4.18% |
-| Story | IP | 5.74 | -2.00% |
-| Bonk | BONK | 0.00002151 | -3.53% |
-| OFFICIAL TRUMP | TRUMP | 8.41 | -5.57% |
-| FLARE | FLR | 0.02299 | -1.59% |
-| Filecoin | FIL | 2.41 | -1.02% |
-| Artificial Superintelligence Alliance | FET | 0.671 | -2.09% |
-| KuCoin Token | KCS | 12.42 | -1.11% |
-| Jupiter | JUP | 0.4859 | -3.33% |
-| First Digital USD | FDUSD | 0.9972 | -0.06% |
-| Sky | SKY | 0.06809 | -1.23% |
-| XDC Network | XDC | 0.08133 | -0.78% |
-| Maker | MKR | 1,638.29 | -1.02% |
-| Injective | INJ | 13.52 | -3.67% |
-| Quant | QNT | 106.45 | +0.30% |
-| Optimism | OP | 0.7247 | -0.36% |
+| Sei | SEI | 0.2941 | -4.12% |
+| Story | IP | 5.75 | -1.85% |
+| Bonk | BONK | 0.00002152 | -3.48% |
+| OFFICIAL TRUMP | TRUMP | 8.43 | -5.36% |
+| FLARE | FLR | 0.02301 | -1.36% |
+| Filecoin | FIL | 2.41 | -0.98% |
+| Artificial Superintelligence Alliance | FET | 0.6714 | -2.05% |
+| KuCoin Token | KCS | 12.40 | -1.21% |
+| Jupiter | JUP | 0.4873 | -3.02% |
+| First Digital USD | FDUSD | 0.9973 | -0.04% |
+| Sky | SKY | 0.06821 | -1.07% |
+| XDC Network | XDC | 0.08149 | -0.65% |
+| Maker | MKR | 1,636.84 | -1.01% |
+| Injective | INJ | 13.51 | -3.87% |
+| Quant | QNT | 106.46 | +0.27% |
+| Optimism | OP | 0.7252 | -0.30% |
 | Celestia | TIA | 1.68 | -2.79% |
-| PayPal USD | PYUSD | 0.999 | +0.00% |
-| Curve DAO Token | CRV | 0.8658 | -1.47% |
-| Stacks | STX | 0.6638 | -2.52% |
-| SPX6900 | SPX | 1.27 | -8.03% |
-| Aerodrome Finance | AERO | 1.31 | -4.45% |
-| Lido DAO Token | LDO | 1.28 | -3.33% |
-| Immutable X | IMX | 0.5413 | -2.89% |
-| Floki | FLOKI | 0.0001005 | -3.10% |
-| The Graph | GRT | 0.09064 | -2.44% |
-| PAX Gold | PAXG | 3,331.23 | -0.31% |
-| Sonic | S | 0.323 | -1.16% |
-| Pendle | PENDLE | 5.47 | -0.04% |
-| PancakeSwap | CAKE | 2.64 | -2.16% |
-| Ethereum Name Service | ENS | 24.71 | -2.34% |
-| Conflux | CFX | 0.1764 | -5.75% |
-| Fartcoin | FARTCOIN | 0.8736 | -5.04% |
-| Raydium | RAY | 3.23 | -3.61% |
-| Kaia | KAIA | 0.1459 | -2.47% |
-| Tezos | XTZ | 0.8078 | -1.35% |
-| dogwifhat | WIF | 0.8534 | -2.04% |
-| Nexo | NEXO | 1.29 | +1.22% |
-| Tether Gold | XAUT | 3,341.47 | -0.29% |
-| Theta Network | THETA | 0.7858 | -1.62% |
-| Vaulta | A | 0.493 | -1.82% |
-| Virtual Protocol | VIRTUAL | 1.19 | -5.68% |
-| IOTA | IOTA | 0.1953 | -2.07% |
-| Morpho | MORPHO | 2.35 | +4.93% |
-| Gala | GALA | 0.01637 | -2.18% |
-| JasmyCoin | JASMY | 0.01514 | -3.56% |
-| The Sandbox | SAND | 0.2785 | -2.17% |
-| Zcash | ZEC | 42.31 | +8.55% |
-| Pyth Network | PYTH | 0.1192 | -1.44% |
+| PayPal USD | PYUSD | 0.999 | +0.02% |
+| Curve DAO Token | CRV | 0.8642 | -1.74% |
+| Stacks | STX | 0.6628 | -2.63% |
+| SPX6900 | SPX | 1.28 | -6.81% |
+| Aerodrome Finance | AERO | 1.31 | -4.13% |
+| Lido DAO Token | LDO | 1.28 | -3.66% |
+| Immutable X | IMX | 0.5411 | -2.88% |
+| Floki | FLOKI | 0.0001004 | -3.07% |
+| The Graph | GRT | 0.09062 | -2.31% |
+| PAX Gold | PAXG | 3,331.24 | -0.31% |
+| Sonic | S | 0.3232 | -1.08% |
+| Pendle | PENDLE | 5.46 | +0.15% |
+| PancakeSwap | CAKE | 2.64 | -2.19% |
+| Ethereum Name Service | ENS | 24.69 | -2.48% |
+| Conflux | CFX | 0.1764 | -5.71% |
+| Fartcoin | FARTCOIN | 0.8774 | -4.54% |
+| Raydium | RAY | 3.23 | -3.41% |
+| Kaia | KAIA | 0.1462 | -2.27% |
+| Tezos | XTZ | 0.8071 | -1.46% |
+| dogwifhat | WIF | 0.8536 | -1.93% |
+| Nexo | NEXO | 1.29 | +0.83% |
+| Tether Gold | XAUT | 3,341.29 | -0.31% |
+| Theta Network | THETA | 0.7858 | -1.60% |
+| Vaulta | A | 0.4933 | -1.80% |
+| Virtual Protocol | VIRTUAL | 1.20 | -5.46% |
+| IOTA | IOTA | 0.1952 | -2.12% |
+| Morpho | MORPHO | 2.35 | +5.18% |
+| Gala | GALA | 0.01636 | -2.17% |
+| JasmyCoin | JASMY | 0.01513 | -3.54% |
+| The Sandbox | SAND | 0.2782 | -2.12% |
+| Zcash | ZEC | 42.36 | +8.43% |
+| Pyth Network | PYTH | 0.1191 | -1.50% |
 
-Last Update at Thu Aug 21 18:21:25 2025 Eastern Time
+Last Update at Thu Aug 21 18:21:27 2025 Eastern Time
