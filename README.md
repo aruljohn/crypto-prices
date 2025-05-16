@@ -103,4 +103,4 @@ This page is updated automatically multiple times a day.
 | Zcash | ZEC | 42.36 | +8.43% |
 | Pyth Network | PYTH | 0.1191 | -1.50% |
 
-Last Update at Thu Aug 21 18:23:07 2025 Eastern Time
+Last Update at Thu Aug 21 18:23:09 2025 Eastern Time
