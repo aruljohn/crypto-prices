@@ -104,4 +104,4 @@ This page is updated automatically multiple times a day.
 | Kaia | KAIA | 0.1061 | +1.63% |
 | JITO | JTO | 1.85 | +3.97% |
 
-Last Update at Sat Jun  7 00:45:06 2025 Eastern Time
+Last Update at Sat Jun  7 00:45:12 2025 Eastern Time
